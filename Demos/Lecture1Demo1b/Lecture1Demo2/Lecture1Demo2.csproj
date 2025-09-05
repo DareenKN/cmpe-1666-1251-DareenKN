@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{02E47A15-669A-4AC8-AA21-34BA2CE7B460}</ProjectGuid>
+    <ProjectGuid>{70208DF2-9DB2-4917-B0DD-B8AA3D8C4527}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Lecture1Demo2</RootNamespace>
     <AssemblyName>Lecture1Demo2</AssemblyName>
@@ -33,12 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="GDIDrawer">
-      <HintPath>..\GDIDrawer.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />

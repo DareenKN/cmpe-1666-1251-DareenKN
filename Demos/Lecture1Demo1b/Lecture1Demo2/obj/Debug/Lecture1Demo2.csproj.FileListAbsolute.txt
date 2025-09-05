@@ -1,0 +1,8 @@
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe.config
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.pdb
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.pdb
+C:\Users\dkinganjatou1\Documents\GitHub\cmpe-1666-1251-DareenKN\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe.config

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo2\\",
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture1Demo2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70208DF2-9DB2-4917-B0DD-B8AA3D8C4527}|Lecture1Demo2\\Lecture1Demo2.csproj|c:\\users\\dkinganjatou1\\documents\\github\\cmpe-1666-1251-dareenkn\\lecture1demo2\\lecture1demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70208DF2-9DB2-4917-B0DD-B8AA3D8C4527}|Lecture1Demo2\\Lecture1Demo2.csproj|solutionrelative:lecture1demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02E47A15-669A-4AC8-AA21-34BA2CE7B460}|Lecture1Demo2\\Lecture1Demo2.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture1demo2\\lecture1demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E47A15-669A-4AC8-AA21-34BA2CE7B460}|Lecture1Demo2\\Lecture1Demo2.csproj|solutionrelative:lecture1demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo2\\Lecture1Demo2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture1Demo2\\Lecture1Demo2\\Program.cs",
               "RelativeDocumentMoniker": "Lecture1Demo2\\Program.cs",
-              "ToolTip": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo2\\Lecture1Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture1Demo2\\Lecture1Demo2\\Program.cs",
               "RelativeToolTip": "Lecture1Demo2\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwCYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T21:20:55.689Z",
+              "WhenOpened": "2025-09-05T20:16:03.464Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70208DF2-9DB2-4917-B0DD-B8AA3D8C4527}|Lecture1Demo2\\Lecture1Demo2.csproj|c:\\users\\dkinganjatou1\\documents\\github\\cmpe-1666-1251-dareenkn\\lecture1demo2\\lecture1demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70208DF2-9DB2-4917-B0DD-B8AA3D8C4527}|Lecture1Demo2\\Lecture1Demo2.csproj|solutionrelative:lecture1demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo2\\Lecture1Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture1Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo2\\Lecture1Demo2\\Program.cs*",
+              "RelativeToolTip": "Lecture1Demo2\\Program.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T21:20:55.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
