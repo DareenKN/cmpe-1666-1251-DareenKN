@@ -8,3 +8,12 @@ C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lec
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.pdb
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.AssemblyReference.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.CoreCompileInputs.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\bin\Debug\GDIDrawer.dll
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1.7BFCDF0D.Up2Date

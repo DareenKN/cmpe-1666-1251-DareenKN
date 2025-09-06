@@ -42,7 +42,7 @@ namespace Lecture1Demo2
             // on the canvas
             while (true)
             {
-                if(canvas.GetLastMouseLeftClick(out Point P))
+                if (canvas.GetLastMouseLeftClick(out Point P))
                 {
                     int randDiametr = rand.Next(25, 75);
                     Color randColor = RandColor.GetColor();
@@ -54,10 +54,36 @@ namespace Lecture1Demo2
 
                     canvas.AddCenteredEllipse(newCicle._center, newCicle._diameter, newCicle._diameter, newCicle._color);
                 }
+
+                // Changing all colors to blue on right click
+                if (canvas.GetLastMouseRightClick(out Point click))
+                {
+                    canvas.Clear();
+                    for (int i = 0; i < count; i++)
+                    {
+                        if (circleArray[i]._diameter < 50)                            
+                            circleArray[i]._color = Color.Blue;
+                    }
+                    RenderCircle(canvas, circleArray, count);
+                }
+
             }
 
+        }
+        /// <summary>
+        /// Counter will represent the number of structs that has been assigned in the array
+        /// </summary>
+        /// <param name="drawer"></param>
+        /// <param name="circle"></param>
+        /// <param name="counter"></param>
+        static void RenderCircle(CDrawer drawer, Circle[] circle, int counter)
+        {
+            drawer.Clear();
 
-
+            for (int i = 0; i < counter; i++)
+            {
+                drawer.AddCenteredEllipse(circle[i]._center, circle[i]._diameter, circle[i]._diameter, circle[i]._color);
+            }
         }
     }
 }
