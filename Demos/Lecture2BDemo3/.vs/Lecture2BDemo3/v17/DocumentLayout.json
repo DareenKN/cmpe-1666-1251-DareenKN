@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A29C04C4-3214-4EF5-BA9F-71599987068B}|Lecture2BDemo3\\Lecture2BDemo3.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture2bdemo3\\lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A29C04C4-3214-4EF5-BA9F-71599987068B}|Lecture2BDemo3\\Lecture2BDemo3.csproj|solutionrelative:lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{840E9B86-2C06-434C-829D-BA9ABF688D87}|Lecture2BDemo3\\Lecture2BDemo3.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture2bdemo3\\lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840E9B86-2C06-434C-829D-BA9ABF688D87}|Lecture2BDemo3\\Lecture2BDemo3.csproj|solutionrelative:lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A29C04C4-3214-4EF5-BA9F-71599987068B}|Lecture2BDemo3\\Lecture2BDemo3.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture2bdemo3\\lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A29C04C4-3214-4EF5-BA9F-71599987068B}|Lecture2BDemo3\\Lecture2BDemo3.csproj|solutionrelative:lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{840E9B86-2C06-434C-829D-BA9ABF688D87}|Lecture2BDemo3\\Lecture2BDemo3.csproj|C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo3\\lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{840E9B86-2C06-434C-829D-BA9ABF688D87}|Lecture2BDemo3\\Lecture2BDemo3.csproj|solutionrelative:lecture2bdemo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": "Lecture2BDemo3\\Form1.cs",
               "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo3\\Lecture2BDemo3\\Form1.cs",
               "RelativeToolTip": "Lecture2BDemo3\\Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T20:37:08.41Z",
+              "WhenOpened": "2025-09-15T20:34:28.429Z",
               "EditorCaption": ""
             },
             {
@@ -43,11 +43,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo3\\Lecture2BDemo3\\Form1.cs",
               "RelativeDocumentMoniker": "Lecture2BDemo3\\Form1.cs",
-              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo3\\Lecture2BDemo3\\Form1.cs [Design]",
-              "RelativeToolTip": "Lecture2BDemo3\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo3\\Lecture2BDemo3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo3\\Lecture2BDemo3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T20:33:59.763Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-15T20:34:23.751Z"
             }
           ]
         }

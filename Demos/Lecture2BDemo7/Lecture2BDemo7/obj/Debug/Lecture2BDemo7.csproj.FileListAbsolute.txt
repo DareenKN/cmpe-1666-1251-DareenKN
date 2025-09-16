@@ -1,0 +1,11 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\bin\Debug\Lecture2BDemo7.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\bin\Debug\Lecture2BDemo7.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\bin\Debug\Lecture2BDemo7.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.exe.config

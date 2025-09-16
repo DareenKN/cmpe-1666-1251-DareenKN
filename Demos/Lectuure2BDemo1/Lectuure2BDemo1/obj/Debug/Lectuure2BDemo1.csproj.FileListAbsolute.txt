@@ -1,0 +1,11 @@
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\bin\Debug\Lectuure2BDemo1.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\bin\Debug\Lectuure2BDemo1.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\bin\Debug\Lectuure2BDemo1.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.Form1.resources
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.Properties.Resources.resources
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.csproj.GenerateResource.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lectuure2BDemo1\Lectuure2BDemo1\obj\Debug\Lectuure2BDemo1.exe.config

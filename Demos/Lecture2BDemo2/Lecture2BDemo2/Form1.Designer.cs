@@ -36,29 +36,29 @@
             // UI_Input_Tbx
             // 
             this.UI_Input_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_Input_Tbx.Location = new System.Drawing.Point(221, 137);
+            this.UI_Input_Tbx.Location = new System.Drawing.Point(266, 156);
             this.UI_Input_Tbx.Name = "UI_Input_Tbx";
-            this.UI_Input_Tbx.Size = new System.Drawing.Size(295, 22);
+            this.UI_Input_Tbx.Size = new System.Drawing.Size(229, 22);
             this.UI_Input_Tbx.TabIndex = 0;
             // 
             // UI_Output_Lbl
             // 
             this.UI_Output_Lbl.AutoSize = true;
             this.UI_Output_Lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_Output_Lbl.Location = new System.Drawing.Point(218, 186);
+            this.UI_Output_Lbl.Location = new System.Drawing.Point(263, 208);
             this.UI_Output_Lbl.Name = "UI_Output_Lbl";
-            this.UI_Output_Lbl.Size = new System.Drawing.Size(131, 16);
+            this.UI_Output_Lbl.Size = new System.Drawing.Size(125, 16);
             this.UI_Output_Lbl.TabIndex = 1;
-            this.UI_Output_Lbl.Text = "Initial Label Value";
+            this.UI_Output_Lbl.Text = "Initial label value";
             // 
             // UI_TransferToLabel_Btn
             // 
             this.UI_TransferToLabel_Btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_TransferToLabel_Btn.Location = new System.Drawing.Point(221, 225);
+            this.UI_TransferToLabel_Btn.Location = new System.Drawing.Point(266, 246);
             this.UI_TransferToLabel_Btn.Name = "UI_TransferToLabel_Btn";
-            this.UI_TransferToLabel_Btn.Size = new System.Drawing.Size(295, 47);
+            this.UI_TransferToLabel_Btn.Size = new System.Drawing.Size(229, 50);
             this.UI_TransferToLabel_Btn.TabIndex = 2;
-            this.UI_TransferToLabel_Btn.Text = "Transfer To Label";
+            this.UI_TransferToLabel_Btn.Text = "Transfer To label";
             this.UI_TransferToLabel_Btn.UseVisualStyleBackColor = true;
             this.UI_TransferToLabel_Btn.Click += new System.EventHandler(this.UI_TransferToLabel_Btn_Click);
             // 
