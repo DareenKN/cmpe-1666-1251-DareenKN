@@ -8,3 +8,13 @@ D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenK
 D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.exe
 D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.pdb
 D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\bin\Debug\Lab1_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\bin\Debug\Lab1_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\bin\Debug\Lab1_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\bin\Debug\GDIDrawer.dll
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_Dar.829EDA47.Up2Date
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Labs\Lab1_DareenKN\Lab1_DareenKN\obj\Debug\Lab1_DareenKN.pdb
