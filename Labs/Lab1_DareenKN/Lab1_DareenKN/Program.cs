@@ -104,12 +104,18 @@ namespace Lab1_DareenKN
 
                     // Collect digits and decimal point
                     else if (char.IsDigit(c) || c == '.')                    
-                        numericPart += c;                    
-                }
+                        numericPart += c;
+
+                    // Stop if more than 2 decimal places
+                    if(numericPart.Split('.').Length > 1 && numericPart.Split('.')[1].Length > 2)
+                        break;
+
+                }        
 
                 // Try to parse the collected numeric part
                 success = double.TryParse(numericPart, out double value);
 
+                // If negative sign is present, reject input
                 if (hasMinus && success)                
                     Console.WriteLine("Please enter a non-negative value.");
 
