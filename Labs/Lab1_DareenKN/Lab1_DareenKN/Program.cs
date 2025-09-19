@@ -1,7 +1,8 @@
 ﻿/* CMPE1666 - Intermediate Programming
  * 
  * Name: Dareen Kinga Njatou
- * Description: 
+ * Description: This program converts a user-inputted currency value into 
+ *              the least number of Canadian denominations (bills and coins).
  * 
  * Date:September 11, 2025
  */
@@ -19,6 +20,12 @@ namespace Lab1_DareenKN
 
         static void Main()
         {
+            //Title of program
+            Console.Title = "Lab 1 - Dareen K. N. - Dinero Fácil";
+
+            // Creating a GDIDrawer with standard size (800,600)
+            CDrawer canvas = new CDrawer(800, 600);
+
             Title(); // Display title
 
             // Loop until user decides to stop
@@ -37,11 +44,14 @@ namespace Lab1_DareenKN
                 DisplayResults(value, rounded, counts);
 
                 // Draw results graphically in GDIDrawer
-                DrawResults(counts, rounded);
+                DrawResults(canvas, counts, rounded);
 
             } while (TestAgain("Do you wish to test another value?")); 
         }
 
+        /// <summary>
+        /// Title of the program
+        /// </summary>
         static void Title()
         {
             string title = "LAB 1 - Dareen K. N. - Dinero Fácil";
@@ -63,44 +73,58 @@ namespace Lab1_DareenKN
             bool valid = false; // flag to track valid input
             double result = 0;  // variable to hold the parsed result
 
-            bool success = false;    // flag for successful parsing
-            string numericPart = ""; // Storing digits from input
-            bool started = false;    // Flag for begining digits collection
+            bool success = false;   // flag for successful parsing
+            string numericPart;     // Storing digits from input 
+            bool hasMinus;          // Flag for negative sign
 
             do
             {
+                // Prompt user for input
                 Console.Write("\nHow much money do you wish to convert?: ");
                 string input = Console.ReadLine().Trim();
 
-                // Remove leading '$' if present
-                if (input.StartsWith("$"))
-                    input = input.Substring(1);                                
-                
-                // Extract only the digits and decimal point from input
+                numericPart = "";   // Reset numeric part               
+                hasMinus = false;   // Reset negative sign flag
+
+                // Check for negative sign anywhere in the input
+                for (int i = 0; i < input.Length; i++)
+                {
+                    if (input[i] == '-')
+                        hasMinus = true;
+                }
+
+                // Extract numeric characters and decimal point
                 foreach (char c in input)
                 {
-                    if (char.IsDigit(c) || c == '.')
-                    {
-                        numericPart += c;
-                        started = true;
-                    }
-                    // Stop collecting digits at first non-numeric after digits have started
-                    else if (started)
-                        break; 
+                    // Ignore leading spaces
+                    if (char.IsWhiteSpace(c)) { }
+
+                    // skip dollar sign
+                    if (c == '$') { }
+
+                    // Collect digits and decimal point
+                    else if (char.IsDigit(c) || c == '.')                    
+                        numericPart += c;                    
                 }
 
-                // Attempt to parse the numeric part to a double
-                success = double.TryParse(numericPart, out double val);
+                // Try to parse the collected numeric part
+                success = double.TryParse(numericPart, out double value);
 
-                // Making sure input is a valid non-negative number
-                if (success && val >= 0)
+                if (hasMinus && success)                
+                    Console.WriteLine("Please enter a non-negative value.");
+
+                // If parsing is successful and value is non-negative, truncate to 2 decimal places
+                else if (success && value >= 0)
                 {
-                    // Keeps the value to 2dps without rounding
-                    result = Math.Floor(val * 100) / 100;
+                    // Multiply to shift decimal, floor to truncate, then divide back
+                    result = Math.Floor(value * 100) / 100;
                     valid = true;
                 }
-                else                
+
+                // Invalid input 
+                else
                     Console.WriteLine("Invalid entry. Please try again.");
+                
             } while (!valid);
 
             return result;
@@ -110,7 +134,7 @@ namespace Lab1_DareenKN
         /// Converts a value to the nearest nickel
         /// </summary>
         /// <param name="value"></param>
-        /// <returns></returns>
+        /// <returns>A value rounded to the nearest nickel</returns>
         static double RoundToNickel(double value)
         {
             // Multiply by 20 to convert to nickels
@@ -123,7 +147,7 @@ namespace Lab1_DareenKN
         /// Calculates the counts of each denomination needed to make up the specified monetary value.
         /// </summary>
         /// <param name="value"></param>
-        /// <returns></returns>
+        /// <returns>Number of counts for a monetary value</returns>
         static int[] CalculateDenominations(double value)
         {            
             int[] counts = new int[denominations.Length]; // counts for each denomination
@@ -173,14 +197,14 @@ namespace Lab1_DareenKN
         /// </summary>
         /// <param name="counts"></param>
         /// <param name="value"></param>
-        static void DrawResults(int[] counts, double value)
+        static void DrawResults(CDrawer canvas,int[] counts, double value)
         {
-            CDrawer drawer = new CDrawer();
+            
             int x = 100, y = 100;
 
-            drawer.Clear();
-            drawer.AddText($"${value}", 20, 330, 20, 150, 75, Color.Yellow);
-            drawer.Render();
+            canvas.Clear();
+            canvas.AddText($"${value}", 20, 330, 20, 150, 75, Color.Yellow);
+            canvas.Render();
 
             // Parallel arrays: one for colors, one for shapes            
             Color[] colors = {  Color.LightPink, Color.LightGreen, Color.Lavender,
@@ -197,14 +221,14 @@ namespace Lab1_DareenKN
 
                     // Display note banks as rectangles and coins as circles
                     if (isRectangle[i])
-                        drawer.AddRectangle(x, y, 200, 90, colors[i], 3, Color.DarkGray);
+                        canvas.AddRectangle(x, y, 200, 90, colors[i], 3, Color.DarkGray);
                     else
-                        drawer.AddEllipse(x + 60, y, 90, 90, colors[i], 3, Color.DarkGray);
+                        canvas.AddEllipse(x + 60, y, 90, 90, colors[i], 3, Color.DarkGray);
 
-                    drawer.AddText($"{denominations[i]:C} x {counts[i]}", 15, x + 5, y, 200, 90);
+                    canvas.AddText($"{denominations[i]:C} x {counts[i]}", 15, x + 5, y, 200, 90);
                     y += 100;
                 }
-                drawer.Render();
+                canvas.Render();
             }
         }
 
@@ -219,7 +243,7 @@ namespace Lab1_DareenKN
             do
             {
                 Console.Write($"{message} (y/n): ");
-                response = Console.ReadLine().ToLower();
+                response = Console.ReadLine().ToLower().Trim();
 
                 if (response != "y" && response != "n")                
                     Console.WriteLine("Please answer with 'y' or 'n'.");                
