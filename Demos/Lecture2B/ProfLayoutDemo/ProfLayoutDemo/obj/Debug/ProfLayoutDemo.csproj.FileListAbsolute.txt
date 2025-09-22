@@ -1,0 +1,11 @@
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\bin\Debug\ProfLayoutDemo.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\bin\Debug\ProfLayoutDemo.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\bin\Debug\ProfLayoutDemo.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.Form1.resources
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.Properties.Resources.resources
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.csproj.GenerateResource.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\ProfLayoutDemo\ProfLayoutDemo\obj\Debug\ProfLayoutDemo.exe.config
