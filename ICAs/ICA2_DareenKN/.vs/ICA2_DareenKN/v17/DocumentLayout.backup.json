@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA2_DareenKN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520A5FC1-206F-482F-A09C-73593544483E}|ICA2_DareenKN\\ICA2_DareenKN.csproj|d:\\desktop\\nait\u0027s stuffs\\github\\term 2\\submissions-dareenkn\\ica2_dareenkn\\ica2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520A5FC1-206F-482F-A09C-73593544483E}|ICA2_DareenKN\\ICA2_DareenKN.csproj|solutionrelative:ica2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520A5FC1-206F-482F-A09C-73593544483E}|ICA2_DareenKN\\ICA2_DareenKN.csproj|D:\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA2_DareenKN\\ica2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520A5FC1-206F-482F-A09C-73593544483E}|ICA2_DareenKN\\ICA2_DareenKN.csproj|solutionrelative:ica2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA2_DareenKN\\ICA2_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA2_DareenKN\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA2_DareenKN\\ICA2_DareenKN\\Form1.cs",
+              "RelativeToolTip": "ICA2_DareenKN\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwDcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:10:35.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA2_DareenKN\\ICA2_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA2_DareenKN\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\cmpe-1666-1251-DareenKN\\ICAs\\ICA2_DareenKN\\ICA2_DareenKN\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\cmpe-1666-1251-DareenKN\\ICAs\\ICA2_DareenKN\\ICA2_DareenKN\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:08:28.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

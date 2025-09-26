@@ -109,7 +109,6 @@ namespace Lab1_DareenKN
                     // Stop if more than 2 decimal places
                     if(numericPart.Split('.').Length > 1 && numericPart.Split('.')[1].Length > 2)
                         break;
-
                 }        
 
                 // Try to parse the collected numeric part
@@ -193,7 +192,7 @@ namespace Lab1_DareenKN
             {
                 // Only display denominations that are used
                 //if (counts[i] > 0)
-                    Console.WriteLine($"{name[i],-10} - {denominations[i],10:C} : {counts[i],5}");
+                Console.WriteLine($"{name[i],-10} - {denominations[i],10:C} : {counts[i],5}");
             }
             Console.WriteLine();
         }
@@ -209,7 +208,7 @@ namespace Lab1_DareenKN
             int x = 100, y = 100;
 
             canvas.Clear();
-            canvas.AddText($"${value}", 20, 330, 20, 150, 75, Color.Yellow);
+            canvas.AddText($"{value:C}", 20, 330, 20, 150, 75, Color.Yellow);
             canvas.Render();
 
             // Parallel arrays: one for colors, one for shapes            
