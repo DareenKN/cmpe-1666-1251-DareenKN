@@ -1,0 +1,10 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\bin\Debug\EventConsolidationDemo.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\bin\Debug\EventConsolidationDemo.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\bin\Debug\EventConsolidationDemo.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\obj\Debug\EventConsolidationDemo.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\obj\Debug\EventConsolidationDemo.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\obj\Debug\EventConsolidationDemo.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\obj\Debug\EventConsolidationDemo.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\obj\Debug\EventConsolidationDemo.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\obj\Debug\EventConsolidationDemo.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\EventConsolidationDemo\EventConsolidationDemo\obj\Debug\EventConsolidationDemo.pdb
