@@ -1,0 +1,33 @@
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.Form1.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.AssemblyReference.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.Form1.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.Properties.Resources.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.GenerateResource.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.CoreCompileInputs.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.pdb
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.exe.config
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.exe
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\bin\Debug\ICA3_DareenKN.pdb
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.exe.config
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.Form1.resources
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.exe
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA3_DareenKN\ICA3_DareenKN\obj\Debug\ICA3_DareenKN.pdb

@@ -1,0 +1,8 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\bin\Debug\Lecture3Demo1.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\bin\Debug\Lecture3Demo1.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\bin\Debug\Lecture3Demo1.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\obj\Debug\Lecture3Demo1.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\obj\Debug\Lecture3Demo1.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\obj\Debug\Lecture3Demo1.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\obj\Debug\Lecture3Demo1.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture3Demo1\Lecture3Demo1\obj\Debug\Lecture3Demo1.exe.config

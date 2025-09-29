@@ -1,0 +1,11 @@
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\bin\Debug\ICA4_DareenKN.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\bin\Debug\ICA4_DareenKN.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\bin\Debug\ICA4_DareenKN.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.csproj.AssemblyReference.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.Form1.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.Properties.Resources.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.csproj.GenerateResource.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.csproj.CoreCompileInputs.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA4_DareenKN\ICA4_DareenKN\obj\Debug\ICA4_DareenKN.exe.config

@@ -1,0 +1,22 @@
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\bin\Debug\ICA2_DareenKN.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\bin\Debug\ICA2_DareenKN.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\bin\Debug\ICA2_DareenKN.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.csproj.AssemblyReference.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.Form1.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.Properties.Resources.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.csproj.GenerateResource.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.csproj.CoreCompileInputs.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.exe.config
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\bin\Debug\ICA2_DareenKN.exe.config
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\bin\Debug\ICA2_DareenKN.exe
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\bin\Debug\ICA2_DareenKN.pdb
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.exe.config
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.Form1.resources
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.exe
+C:\Users\dkinganjatou1\Documents\Nait\Term 2\submissions-DareenKN\ICA2_DareenKN\ICA2_DareenKN\obj\Debug\ICA2_DareenKN.pdb

@@ -9,3 +9,14 @@ C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Le
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.exe
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.pdb
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\bin\Debug\Lecture2BDemo7.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\bin\Debug\Lecture2BDemo7.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\bin\Debug\Lecture2BDemo7.pdb
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.csproj.AssemblyReference.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.exe.config
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.Form1.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.Properties.Resources.resources
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.csproj.GenerateResource.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.csproj.CoreCompileInputs.cache
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.exe
+D:\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo7\Lecture2BDemo7\obj\Debug\Lecture2BDemo7.pdb
