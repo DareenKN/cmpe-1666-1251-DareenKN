@@ -9,3 +9,14 @@ C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lecture2BDemo3\L
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.exe
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.pdb
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture2B\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\bin\Debug\Lecture2BDemo3.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\bin\Debug\Lecture2BDemo3.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\bin\Debug\Lecture2BDemo3.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture2BDemo3\Lecture2BDemo3\obj\Debug\Lecture2BDemo3.pdb

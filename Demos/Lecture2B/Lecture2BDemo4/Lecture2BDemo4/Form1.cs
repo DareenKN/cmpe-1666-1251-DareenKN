@@ -20,6 +20,12 @@ namespace Lecture2BDemo4
         private void UI_Input_Tbx_TextChanged(object sender, EventArgs e)
         {
             UI_Output_Tbx.Text = UI_Input_Tbx.Text;
+
+        }
+
+        private void UI_Output_Tbx_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

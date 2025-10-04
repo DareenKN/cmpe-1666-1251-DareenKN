@@ -28,35 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.UI_Input_Tbx = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.UI_Input_Tbx = new System.Windows.Forms.TextBox();
             this.UI_ClickMe_Btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // UI_Input_Tbx
-            // 
-            this.UI_Input_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_Input_Tbx.Location = new System.Drawing.Point(282, 169);
-            this.UI_Input_Tbx.Name = "UI_Input_Tbx";
-            this.UI_Input_Tbx.Size = new System.Drawing.Size(154, 22);
-            this.UI_Input_Tbx.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(227, 169);
+            this.label1.Location = new System.Drawing.Point(271, 150);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(49, 16);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "name:";
+            this.label1.Size = new System.Drawing.Size(52, 16);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Name:";
+            // 
+            // UI_Input_Tbx
+            // 
+            this.UI_Input_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UI_Input_Tbx.Location = new System.Drawing.Point(326, 143);
+            this.UI_Input_Tbx.Name = "UI_Input_Tbx";
+            this.UI_Input_Tbx.Size = new System.Drawing.Size(193, 22);
+            this.UI_Input_Tbx.TabIndex = 1;
             // 
             // UI_ClickMe_Btn
             // 
             this.UI_ClickMe_Btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_ClickMe_Btn.Location = new System.Drawing.Point(234, 235);
+            this.UI_ClickMe_Btn.Location = new System.Drawing.Point(274, 207);
             this.UI_ClickMe_Btn.Name = "UI_ClickMe_Btn";
-            this.UI_ClickMe_Btn.Size = new System.Drawing.Size(211, 52);
+            this.UI_ClickMe_Btn.Size = new System.Drawing.Size(245, 56);
             this.UI_ClickMe_Btn.TabIndex = 2;
             this.UI_ClickMe_Btn.Text = "Click Me";
             this.UI_ClickMe_Btn.UseVisualStyleBackColor = true;
@@ -68,8 +68,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.UI_ClickMe_Btn);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.UI_Input_Tbx);
+            this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -79,8 +79,8 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox UI_Input_Tbx;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox UI_Input_Tbx;
         private System.Windows.Forms.Button UI_ClickMe_Btn;
     }
 }

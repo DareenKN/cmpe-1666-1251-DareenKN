@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo4\\",
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFF5E3A0-D5B0-4CF5-B2EB-86E0630EDEE9}|Lecture2BDemo4\\Lecture2BDemo4.csproj|c:\\users\\oveeyenm\\desktop\\cmpe1666_1251\\cmpe1666_1251\\lecture2b\\lecture2bdemo4\\lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF5E3A0-D5B0-4CF5-B2EB-86E0630EDEE9}|Lecture2BDemo4\\Lecture2BDemo4.csproj|solutionrelative:lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{553133CB-7767-41DD-B062-ADFC283DEA32}|Lecture2BDemo4\\Lecture2BDemo4.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture2bdemo4\\lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553133CB-7767-41DD-B062-ADFC283DEA32}|Lecture2BDemo4\\Lecture2BDemo4.csproj|solutionrelative:lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF5E3A0-D5B0-4CF5-B2EB-86E0630EDEE9}|Lecture2BDemo4\\Lecture2BDemo4.csproj|c:\\users\\oveeyenm\\desktop\\cmpe1666_1251\\cmpe1666_1251\\lecture2b\\lecture2bdemo4\\lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DFF5E3A0-D5B0-4CF5-B2EB-86E0630EDEE9}|Lecture2BDemo4\\Lecture2BDemo4.csproj|solutionrelative:lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{553133CB-7767-41DD-B062-ADFC283DEA32}|Lecture2BDemo4\\Lecture2BDemo4.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture2bdemo4\\lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{553133CB-7767-41DD-B062-ADFC283DEA32}|Lecture2BDemo4\\Lecture2BDemo4.csproj|solutionrelative:lecture2bdemo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs",
-              "RelativeDocumentMoniker": "Lecture2BDemo4\\Form1.cs",
-              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs",
-              "RelativeToolTip": "Lecture2BDemo4\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:09:13.054Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs",
               "RelativeDocumentMoniker": "Lecture2BDemo4\\Form1.cs",
-              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs [Design]",
               "RelativeToolTip": "Lecture2BDemo4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:05:40.461Z",
+              "WhenOpened": "2025-09-16T20:39:24.356Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture2BDemo4\\Form1.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture2BDemo4\\Lecture2BDemo4\\Form1.cs",
+              "RelativeToolTip": "Lecture2BDemo4\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:30:50.947Z",
+              "EditorCaption": ""
             }
           ]
         }
