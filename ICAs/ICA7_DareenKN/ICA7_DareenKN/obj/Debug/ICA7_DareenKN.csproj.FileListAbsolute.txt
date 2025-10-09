@@ -1,0 +1,11 @@
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\bin\Debug\ICA7_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\bin\Debug\ICA7_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\bin\Debug\ICA7_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.Form1.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.exe.config
