@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.UI_DragDrop_Tbx = new System.Windows.Forms.TextBox();
+            this.UI_DisplayData_Tbx = new System.Windows.Forms.TextBox();
             this.UI_DisplayCount_Btn = new System.Windows.Forms.Button();
             this.UI_DisplayMin_Btn = new System.Windows.Forms.Button();
             this.UI_DisplayMax_Btn = new System.Windows.Forms.Button();
@@ -38,20 +38,22 @@
             this.UI_NumOfVal_Tbx = new System.Windows.Forms.TextBox();
             this.UI_MinVal_Tbx = new System.Windows.Forms.TextBox();
             this.UI_MaxVal_Tbx = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
+            this.UI_DragAndDrop_Lbl = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // UI_DragDrop_Tbx
+            // UI_DisplayData_Tbx
             // 
-            this.UI_DragDrop_Tbx.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.UI_DragDrop_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_DragDrop_Tbx.Location = new System.Drawing.Point(35, 120);
-            this.UI_DragDrop_Tbx.Multiline = true;
-            this.UI_DragDrop_Tbx.Name = "UI_DragDrop_Tbx";
-            this.UI_DragDrop_Tbx.ReadOnly = true;
-            this.UI_DragDrop_Tbx.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.UI_DragDrop_Tbx.Size = new System.Drawing.Size(233, 290);
-            this.UI_DragDrop_Tbx.TabIndex = 0;
+            this.UI_DisplayData_Tbx.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.UI_DisplayData_Tbx.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.UI_DisplayData_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UI_DisplayData_Tbx.Location = new System.Drawing.Point(35, 120);
+            this.UI_DisplayData_Tbx.Multiline = true;
+            this.UI_DisplayData_Tbx.Name = "UI_DisplayData_Tbx";
+            this.UI_DisplayData_Tbx.ReadOnly = true;
+            this.UI_DisplayData_Tbx.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.UI_DisplayData_Tbx.Size = new System.Drawing.Size(233, 290);
+            this.UI_DisplayData_Tbx.TabIndex = 0;
             // 
             // UI_DisplayCount_Btn
             // 
@@ -63,6 +65,7 @@
             this.UI_DisplayCount_Btn.TabIndex = 1;
             this.UI_DisplayCount_Btn.Text = "Display Count";
             this.UI_DisplayCount_Btn.UseVisualStyleBackColor = false;
+            this.UI_DisplayCount_Btn.Click += new System.EventHandler(this.UI_DisplayCount_Btn_Click);
             // 
             // UI_DisplayMin_Btn
             // 
@@ -74,6 +77,7 @@
             this.UI_DisplayMin_Btn.TabIndex = 2;
             this.UI_DisplayMin_Btn.Text = "Display Minimum";
             this.UI_DisplayMin_Btn.UseVisualStyleBackColor = false;
+            this.UI_DisplayMin_Btn.Click += new System.EventHandler(this.UI_DisplayMin_Btn_Click);
             // 
             // UI_DisplayMax_Btn
             // 
@@ -85,6 +89,7 @@
             this.UI_DisplayMax_Btn.TabIndex = 3;
             this.UI_DisplayMax_Btn.Text = "Display Maximum";
             this.UI_DisplayMax_Btn.UseVisualStyleBackColor = false;
+            this.UI_DisplayMax_Btn.Click += new System.EventHandler(this.UI_DisplayMax_Btn_Click);
             // 
             // label1
             // 
@@ -140,25 +145,28 @@
             this.UI_MaxVal_Tbx.Size = new System.Drawing.Size(88, 22);
             this.UI_MaxVal_Tbx.TabIndex = 9;
             // 
-            // label4
+            // UI_DragAndDrop_Lbl
             // 
-            this.label4.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(89, 46);
-            this.label4.Name = "label4";
-            this.label4.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label4.Size = new System.Drawing.Size(125, 62);
-            this.label4.TabIndex = 10;
-            this.label4.Text = "Drag Drop Your File On the Text Box";
-            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.UI_DragAndDrop_Lbl.AllowDrop = true;
+            this.UI_DragAndDrop_Lbl.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.UI_DragAndDrop_Lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UI_DragAndDrop_Lbl.Location = new System.Drawing.Point(89, 46);
+            this.UI_DragAndDrop_Lbl.Name = "UI_DragAndDrop_Lbl";
+            this.UI_DragAndDrop_Lbl.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.UI_DragAndDrop_Lbl.Size = new System.Drawing.Size(125, 62);
+            this.UI_DragAndDrop_Lbl.TabIndex = 10;
+            this.UI_DragAndDrop_Lbl.Text = "Drag Drop Your File On the Text Box";
+            this.UI_DragAndDrop_Lbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.UI_DragAndDrop_Lbl.DragDrop += new System.Windows.Forms.DragEventHandler(this.UI_DragAndDrop_Lbl_DragDrop);
+            this.UI_DragAndDrop_Lbl.DragEnter += new System.Windows.Forms.DragEventHandler(this.UI_DragAndDrop_Lbl_DragEnter);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label4);
+            this.ClientSize = new System.Drawing.Size(769, 446);
+            this.Controls.Add(this.UI_DragAndDrop_Lbl);
             this.Controls.Add(this.UI_MaxVal_Tbx);
             this.Controls.Add(this.UI_MinVal_Tbx);
             this.Controls.Add(this.UI_NumOfVal_Tbx);
@@ -168,7 +176,8 @@
             this.Controls.Add(this.UI_DisplayMax_Btn);
             this.Controls.Add(this.UI_DisplayMin_Btn);
             this.Controls.Add(this.UI_DisplayCount_Btn);
-            this.Controls.Add(this.UI_DragDrop_Tbx);
+            this.Controls.Add(this.UI_DisplayData_Tbx);
+            this.MinimumSize = new System.Drawing.Size(785, 485);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -178,7 +187,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox UI_DragDrop_Tbx;
+        private System.Windows.Forms.TextBox UI_DisplayData_Tbx;
         private System.Windows.Forms.Button UI_DisplayCount_Btn;
         private System.Windows.Forms.Button UI_DisplayMin_Btn;
         private System.Windows.Forms.Button UI_DisplayMax_Btn;
@@ -188,7 +197,7 @@
         private System.Windows.Forms.TextBox UI_NumOfVal_Tbx;
         private System.Windows.Forms.TextBox UI_MinVal_Tbx;
         private System.Windows.Forms.TextBox UI_MaxVal_Tbx;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label UI_DragAndDrop_Lbl;
     }
 }
 

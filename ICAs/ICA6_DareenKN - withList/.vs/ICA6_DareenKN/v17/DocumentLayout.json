@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA6_DareenKN - withList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB39450-88F2-4083-A025-68DC00EB3863}|ICA6_DareenKN\\ICA6_DareenKN.csproj|c:\\users\\kidareen\\onedrive - nait\\desktop\\nait\u0027s stuffs\\github\\term 2\\submissions-dareenkn\\ica6_dareenkn - withlist\\ica6_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB39450-88F2-4083-A025-68DC00EB3863}|ICA6_DareenKN\\ICA6_DareenKN.csproj|solutionrelative:ica6_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB39450-88F2-4083-A025-68DC00EB3863}|ICA6_DareenKN\\ICA6_DareenKN.csproj|C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA6_DareenKN - withList\\ica6_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACB39450-88F2-4083-A025-68DC00EB3863}|ICA6_DareenKN\\ICA6_DareenKN.csproj|solutionrelative:ica6_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA6_DareenKN - withList\\ICA6_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA6_DareenKN\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA6_DareenKN - withList\\ICA6_DareenKN\\Form1.cs",
+              "RelativeToolTip": "ICA6_DareenKN\\Form1.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAmwAsBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T00:50:44.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA6_DareenKN - withList\\ICA6_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA6_DareenKN\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA6_DareenKN - withList\\ICA6_DareenKN\\Form1.cs [Design]",
+              "RelativeToolTip": "ICA6_DareenKN\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T00:50:34.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
