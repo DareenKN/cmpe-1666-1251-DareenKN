@@ -9,3 +9,14 @@ C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenK
 C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.exe
 C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.pdb
 C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\bin\Debug\ICA7_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\bin\Debug\ICA7_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\bin\Debug\ICA7_DareenKN.pdb
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.csproj.AssemblyReference.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.Form1.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.Properties.Resources.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.csproj.GenerateResource.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\ICAs\ICA7_DareenKN\ICA7_DareenKN\obj\Debug\ICA7_DareenKN.pdb
