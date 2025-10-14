@@ -9,3 +9,14 @@ C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\lecture4Demo3\lec
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.exe
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.pdb
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\bin\Debug\lecture4Demo3.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\bin\Debug\lecture4Demo3.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\bin\Debug\lecture4Demo3.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\lecture4Demo3\lecture4Demo3\obj\Debug\lecture4Demo3.pdb

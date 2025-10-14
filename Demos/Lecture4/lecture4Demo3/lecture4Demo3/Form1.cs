@@ -21,15 +21,33 @@ namespace lecture4Demo3
 
         private void UI_LoadFile1_Btn_Click(object sender, EventArgs e)
         {
-            string[] strArr = File.ReadAllLines("../../../../file1.txt");
-            foreach (string s in strArr)
-                Ui_DisplayFile1_Lbx.Items.Add(s);
+            try
+            {
+                string[] strArr = File.ReadAllLines("../../../../file1.txt");
+                foreach (string s in strArr)
+                    Ui_DisplayFile1_Lbx.Items.Add(s);
+            }
+            //catch (IOException ex1)
+            //{
+            //}
+
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Exception: {ex.Message}");
+            }
         }
 
         private void UI_LoadFile2_btn_Click(object sender, EventArgs e)
         {
-            string fileData = File.ReadAllText("../../../../file2.txt");
-            UI_DisplayFile2_Tbx.Text = fileData;
+            try
+            {
+                string fileData = File.ReadAllText("../../../../file2.txt");
+                UI_DisplayFile2_Tbx.Text = fileData;
+            }
+            catch
+            {
+                Console.WriteLine("There was an Error when trying to read from the file");
+            }
         }
     }
 }
