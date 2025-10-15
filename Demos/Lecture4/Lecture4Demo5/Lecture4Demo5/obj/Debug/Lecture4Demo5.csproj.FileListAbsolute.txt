@@ -8,3 +8,4 @@ C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\Lecture4
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\Lecture4Demo5\Lecture4Demo5\obj\Debug\Lecture4Demo5.csproj.CoreCompileInputs.cache
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\Lecture4Demo5\Lecture4Demo5\obj\Debug\Lecture4Demo5.exe
 C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\Lecture4Demo5\Lecture4Demo5\obj\Debug\Lecture4Demo5.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture4\Lecture4Demo5\Lecture4Demo5\obj\Debug\Lecture4Demo5.exe.config

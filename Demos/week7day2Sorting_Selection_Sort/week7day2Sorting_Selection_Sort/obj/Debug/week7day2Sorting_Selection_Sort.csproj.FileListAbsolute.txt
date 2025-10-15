@@ -1,0 +1,8 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\bin\Debug\week7day2Sorting_Selection_Sort.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\bin\Debug\week7day2Sorting_Selection_Sort.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\bin\Debug\week7day2Sorting_Selection_Sort.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\obj\Debug\week7day2Sorting_Selection_Sort.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\obj\Debug\week7day2Sorting_Selection_Sort.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\obj\Debug\week7day2Sorting_Selection_Sort.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\obj\Debug\week7day2Sorting_Selection_Sort.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\week7day2Sorting_Selection_Sort\week7day2Sorting_Selection_Sort\obj\Debug\week7day2Sorting_Selection_Sort.exe.config
