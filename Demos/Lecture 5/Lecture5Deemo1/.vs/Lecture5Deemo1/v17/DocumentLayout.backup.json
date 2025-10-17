@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture 5\\Lecture5Deemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A76117-DE9E-401C-995B-F228A5CDD72F}|Lecture5Deemo1\\Lecture5Deemo1.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture 5\\lecture5deemo1\\lecture5deemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A76117-DE9E-401C-995B-F228A5CDD72F}|Lecture5Deemo1\\Lecture5Deemo1.csproj|solutionrelative:lecture5deemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture 5\\Lecture5Deemo1\\Lecture5Deemo1\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture5Deemo1\\Program.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture 5\\Lecture5Deemo1\\Lecture5Deemo1\\Program.cs",
+              "RelativeToolTip": "Lecture5Deemo1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T20:29:03.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
