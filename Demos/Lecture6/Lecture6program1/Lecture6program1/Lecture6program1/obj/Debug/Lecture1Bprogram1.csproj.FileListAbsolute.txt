@@ -1,0 +1,15 @@
+C:\Users\oveey\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Winter2022\ProjectTrials\Lecture1Bprogram1\Lecture1Bprogram1\bin\Debug\Lecture1Bprogram1.exe.config
+C:\Users\oveey\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Winter2022\ProjectTrials\Lecture1Bprogram1\Lecture1Bprogram1\bin\Debug\Lecture1Bprogram1.exe
+C:\Users\oveey\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Winter2022\ProjectTrials\Lecture1Bprogram1\Lecture1Bprogram1\bin\Debug\Lecture1Bprogram1.pdb
+C:\Users\oveey\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Winter2022\ProjectTrials\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.csproj.AssemblyReference.cache
+C:\Users\oveey\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Winter2022\ProjectTrials\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.csproj.CoreCompileInputs.cache
+C:\Users\oveey\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Winter2022\ProjectTrials\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.exe
+C:\Users\oveey\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Winter2022\ProjectTrials\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.pdb
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\bin\Debug\Lecture1Bprogram1.exe.config
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\bin\Debug\Lecture1Bprogram1.exe
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\bin\Debug\Lecture1Bprogram1.pdb
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.csproj.SuggestedBindingRedirects.cache
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.exe
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\Run-Fall2022\InClassExercises\Lecture1Bprogram1\Lecture1Bprogram1\obj\Debug\Lecture1Bprogram1.pdb

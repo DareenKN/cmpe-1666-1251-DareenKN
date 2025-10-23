@@ -1,0 +1,8 @@
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\bin\Debug\Lecture1Bprogram1.exe.config
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\bin\Debug\Lecture1Bprogram1.exe
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\bin\Debug\Lecture1Bprogram1.pdb
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\obj\Debug\Lecture6program1.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\obj\Debug\Lecture6program1.csproj.SuggestedBindingRedirects.cache
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\obj\Debug\Lecture6program1.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\obj\Debug\Lecture1Bprogram1.exe
+C:\Users\oveeyenm\Documents\cmpe1666_A01Demos\Lecture6\Lecture6program1\Lecture6program1\obj\Debug\Lecture1Bprogram1.pdb
