@@ -1,0 +1,11 @@
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\bin\Debug\Lecture4Demo4.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\bin\Debug\Lecture4Demo4.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\bin\Debug\Lecture4Demo4.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.Form1.resources
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.Properties.Resources.resources
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.csproj.GenerateResource.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture4\Lecture4Demo4\Lecture4Demo4\obj\Debug\Lecture4Demo4.exe.config

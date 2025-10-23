@@ -1,10 +1,9 @@
-﻿/* CMPE1666 - Intermediate Programming
- * Lecture 3 Demo 4 - Using LINQ methods on List<T>
+﻿/*CMPE 1666- Intermediate Programming
  * 
- * Name: Dareen Kinga Njatou
+ * Lecture 3- Demo - Working with List methods
  * 
- * Date: October 3, 2025
  */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,36 +16,36 @@ namespace Lecture3Demo4
     {
         static void Main(string[] args)
         {
-            List<int> list = new List<int> { 15, 25, 12, 8, 32, 43, 18, 21, 11, 5, 8, 12 };
+            List<int> list = new List<int> {15,25, 12, 8, 32, 43, 18, 21, 11, 5, 8,12, 20, 8, 25, 33, 8 };
 
-            // We'll test  a nuber of different methods
+            //We'll test a number of different methods
 
-            Console.WriteLine($"The minimum value in the list is {list.Min()}");
-            Console.WriteLine($"The maximum value in the list is {list.Max()}");
-            Console.WriteLine($"The average value in the list is {list.Average()}");
+            Console.WriteLine($"Initial List is: {string.Join(", ", list)}");
             Console.WriteLine();
-
-            // Removing value 32 from the list
+            Console.WriteLine($"The minimum value in the List is: {list.Min()}");
+            Console.WriteLine($"The maximum value in the List is: {list.Max()}");
+            Console.WriteLine($"The average value in the List is: {list.Average()}");
+            Console.WriteLine();
+            //Removing vaue 32 from the List
             list.Remove(32);
-            Console.WriteLine($"After removing 32 from the list, our list becomes: {string.Join(", ", list)}");
-            Console.WriteLine($"The minimum value in the list is {list.Min()}");
+            Console.WriteLine($"After removing 32 from the list, our list becomes: {string.Join(", ",list)}");
             Console.WriteLine();
             list.Reverse();
-            Console.WriteLine($"After reversing the list becomes: {string.Join(", ", list)}");
+            Console.WriteLine($"After Reversing, the list becomes: {string.Join(", ",list)}");
             Console.WriteLine();
             list.RemoveAt(3);
-            Console.WriteLine($"After removing the value at index 3, the list becomes: {string.Join(", ", list)}");
+            Console.WriteLine($"After Removing element at position 3, the list becomes: {string.Join(", ", list)}");
             Console.WriteLine();
-
-            // Removing 8 from the list
+            //Removing 8 from the list
             list.Remove(8);
-            Console.WriteLine($"After removing 8 from the list, the list becomes: {string.Join(", ", list)}");
+            Console.WriteLine($"After removing 8 from the list, our list becomes: {string.Join(", ", list)}");
             Console.WriteLine();
 
             list.Clear();
-            Console.WriteLine($"After clearing the list, the list becomes: {string.Join(", ", list)}");
+            Console.WriteLine($"After executing Clear, our list becomes: {string.Join(", ", list)}");
+            Console.WriteLine();
 
-            Console.ReadKey();
+
         }
     }
 }

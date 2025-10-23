@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\",
+  "WorkspaceRootPath": "C:\\Users\\OVEEYENM\\OneDrive - NAIT\\Desktop\\NaitCourses\\CMPE1666-Intermediate Programming\\RunFall2025\\github\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|c:\\users\\oveeyenm\\desktop\\cmpe1666_1251\\cmpe1666_1251\\lecture2b\\lecture2bdemo2\\lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|solutionrelative:lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|C:\\Users\\OVEEYENM\\OneDrive - NAIT\\Desktop\\NaitCourses\\CMPE1666-Intermediate Programming\\RunFall2025\\github\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|solutionrelative:lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|c:\\users\\oveeyenm\\desktop\\cmpe1666_1251\\cmpe1666_1251\\lecture2b\\lecture2bdemo2\\lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|solutionrelative:lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|c:\\users\\oveeyenm\\onedrive - nait\\desktop\\naitcourses\\cmpe1666-intermediate programming\\runfall2025\\github\\cmpe1666_1251\\lecture2b\\lecture2bdemo2\\lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15645A98-1472-4AC6-A988-FD6651AFA9A0}|Lecture2BDemo2\\Lecture2BDemo2.csproj|solutionrelative:lecture2bdemo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\OVEEYENM\\OneDrive - NAIT\\Desktop\\NaitCourses\\CMPE1666-Intermediate Programming\\RunFall2025\\github\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs",
               "RelativeDocumentMoniker": "Lecture2BDemo2\\Form1.cs",
-              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs",
+              "ToolTip": "C:\\Users\\OVEEYENM\\OneDrive - NAIT\\Desktop\\NaitCourses\\CMPE1666-Intermediate Programming\\RunFall2025\\github\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs",
               "RelativeToolTip": "Lecture2BDemo2\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T20:26:31.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\OVEEYENM\\OneDrive - NAIT\\Desktop\\NaitCourses\\CMPE1666-Intermediate Programming\\RunFall2025\\github\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs",
               "RelativeDocumentMoniker": "Lecture2BDemo2\\Form1.cs",
-              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\OVEEYENM\\OneDrive - NAIT\\Desktop\\NaitCourses\\CMPE1666-Intermediate Programming\\RunFall2025\\github\\CMPE1666_1251\\Lecture2B\\Lecture2BDemo2\\Lecture2BDemo2\\Form1.cs [Design]",
               "RelativeToolTip": "Lecture2BDemo2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T20:22:29.086Z",

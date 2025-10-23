@@ -1,0 +1,16 @@
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\bin\Debug\Lecture1Demo2.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture1\Lecture1Demo2\Lecture1Demo2\obj\Debug\Lecture1Demo2.pdb

@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Lecture3Demo3
-{    
+{
     public partial class Form1 : Form
     {
-        private List<int> list = new List<int> { 50, 26, 28, 49, 72, 13, 15, 92, 17, 43, 18, 33, 12, 30, 25 };
+        private List<int> list = new List<int> {50,26,28,49,72,13,15,92,17,43,18,33,12,30,25 };
         public Form1()
         {
             InitializeComponent();

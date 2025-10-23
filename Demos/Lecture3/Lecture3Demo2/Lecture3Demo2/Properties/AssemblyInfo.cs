@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Lecture3Demo2")]
+[assembly: AssemblyTitle("lecture3Demo2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NAIT")]
-[assembly: AssemblyProduct("Lecture3Demo2")]
+[assembly: AssemblyProduct("lecture3Demo2")]
 [assembly: AssemblyCopyright("Copyright © NAIT 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8bf5781f-4f47-4a83-a960-02f4bbf89ede")]
+[assembly: Guid("89b3ca89-53e2-48bf-a948-75d7c61c3ee7")]
 
 // Version information for an assembly consists of the following four values:
 //

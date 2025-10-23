@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lecture4Demo5.Properties
+namespace lecture4Demo5.Properties
 {
 
 

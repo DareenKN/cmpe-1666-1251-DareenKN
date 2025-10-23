@@ -35,19 +35,19 @@
             // UI_Display_Tbx
             // 
             this.UI_Display_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_Display_Tbx.Location = new System.Drawing.Point(216, 112);
+            this.UI_Display_Tbx.Location = new System.Drawing.Point(220, 99);
             this.UI_Display_Tbx.Multiline = true;
             this.UI_Display_Tbx.Name = "UI_Display_Tbx";
             this.UI_Display_Tbx.ReadOnly = true;
-            this.UI_Display_Tbx.Size = new System.Drawing.Size(359, 120);
+            this.UI_Display_Tbx.Size = new System.Drawing.Size(350, 135);
             this.UI_Display_Tbx.TabIndex = 0;
             // 
             // UI_Display_Btn
             // 
             this.UI_Display_Btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UI_Display_Btn.Location = new System.Drawing.Point(284, 248);
+            this.UI_Display_Btn.Location = new System.Drawing.Point(326, 261);
             this.UI_Display_Btn.Name = "UI_Display_Btn";
-            this.UI_Display_Btn.Size = new System.Drawing.Size(208, 44);
+            this.UI_Display_Btn.Size = new System.Drawing.Size(171, 42);
             this.UI_Display_Btn.TabIndex = 1;
             this.UI_Display_Btn.Text = "Display Values";
             this.UI_Display_Btn.UseVisualStyleBackColor = true;

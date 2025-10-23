@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Lecture3Demo4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("NAIT")]
 [assembly: AssemblyProduct("Lecture3Demo4")]
-[assembly: AssemblyCopyright("Copyright ©  2025")]
+[assembly: AssemblyCopyright("Copyright © NAIT 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4634d003-fac2-4113-ad52-4e7e18d14299")]
+[assembly: Guid("fa1f38cf-a2c5-4e3d-b06d-9823bafc21e3")]
 
 // Version information for an assembly consists of the following four values:
 //

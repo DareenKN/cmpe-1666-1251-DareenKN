@@ -1,34 +1,10 @@
-﻿/* CMPE1666 - Intermediate C# Programming
- * Lecture 3 Demo 5 - Windows Forms Application
+﻿/**CMPE 1666- Intermediate programming
  * 
- * Name: Dareen Kinga Njatou
+ * Lecture 3 - Demo5- Working with a list of structs
  * 
- * Description: add a struct Student having as members a student id
-(an integer) a string for the student first name and a string for the
-student’s last name.
-
-The program must also contain the following methods:
- A method StudentToString(). It has as parameter a student struct and it
-returns a string containing the student data as follows: <studentId>,
-<firstName> <lastName>
- A method MaxId() that has as parameter a list of Student structs and it returns
-the Student struct having the highest ID value
- A method MinId() that has a parameter a list of Student structs and it returns
-the Student struct with the minimum Id Value
- In the Form class, create an empty List of Student structs.
- In the form class create 3 Lists each containing 10 values. One must be for
-student Ids, one for first names and one for last names.
- Add event handlers as per the next slide.
-
-The Form_Load event handler must create 10 Student structs, from the 3 class-
-level lists and add them to the list of structs. It must then display them in the
-listbox using the StudentToString() method.
- The click event handlers for the “Find Max Id Student” and “Find Min Id Student”
-buttons must respectively display all information for the student with maximum
-and minimum id in read-only textboxes next to the button.
-
- * Date: October 5, 2025
+ * 
  */
+using Microsoft.SqlServer.Server;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -45,123 +21,137 @@ namespace Lecture3Demo5
     {
         private List<Student> students = new List<Student>();
 
-        // 3 List containg values for student Ids, first names and last names
-        // The declaration has to be done at the form level at the top not in the constructor         
-        List<int> StudentIDs = new List<int> { 126, 39, 143, 255, 43, 31, 189, 157, 98, 201 };
-        List<string> FirstNames = new List<string> { "Dareen", "John", "Alice", "Bob", "Cathy", "David", "Eva", "Frank", "Grace", "Hank" };
-        List<string> LastNames = new List<string> { "Njatou", "Smith", "Johnson", "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor", "Anderson" };
+        //3 lists containing values to be used for constructing Student Structs
+        List<int> studentIDs = new List<int> { 126, 39, 143, 255, 43, 31, 189, 157, 79, 182 };
+        List<string> firstNames = new List<string> {"Harry", "Sheldon", "Mary", "Jaimie", "Marie",
+                                                     "Michael", "Isaac", "James", "Liz", "Phoebe"};
+        List<string> lastnames = new List<string> {"Potter", "Cooper", "Lamb", "Sommer", "Curie",
+                                                   "Faraday", "Newton", "Watt", "Taylor", "Kates"  };
 
-        // Class-level list of Student structs
+
         private struct Student
         {
-            public int _studentId;
+            public int _studentID;
             public string _firstName;
             public string _lastName;
         }
+
+
         public Form1()
         {
-            InitializeComponent();            
+            InitializeComponent();
         }
 
-        // Methods
-        /// <summary>
-        /// Returns a Student struct infos as a string
-        /// </summary>
-        /// <param name="stud"></param>
-        /// <returns></returns>
+
+        //StudentToString() method returns the student info in the form of 
+        //a string
         private string StudentToString(Student stud)
         {
-            string result = $"{stud._studentId}, {stud._firstName} {stud._lastName}";
-            return result;
+            return $"{stud._studentID}, {stud._firstName} {stud._lastName}";
         }
+
+
+        /*MaxId() has as parameter a list of Student structs
+         * and it returns the student struct with the maximum Id value
+         * 
+         * 
+         * 
+         */
         private Student MaxId(List<Student> list)
         {
-            int maxId = list[0]._studentId; 
+            int maxValue = list[0]._studentID;
             int maxPosn = 0;
 
-            for (int count = 0; count < list.Count; count++)
+            for(int count=1; count<list.Count; count++)
             {
-                if (list[count]._studentId > maxId)
+                if (list[count]._studentID > maxValue)
                 {
-                    maxId = list[count]._studentId;
+                    maxValue = list[count]._studentID;
                     maxPosn = count;
                 }
             }
+
             return list[maxPosn];
         }
 
+
+        /*MinId() has as parameter a list of Student structs
+         * and it returns the student struct with the minimum Id value
+         * 
+         * 
+         * 
+         */
+
         private Student MinId(List<Student> list)
         {
-            int minId = list[0]._studentId;
+            int minValue = list[0]._studentID;
             int minPosn = 0;
 
             for (int count = 1; count < list.Count; count++)
             {
-                if (list[count]._studentId < minId)
+                if (list[count]._studentID < minValue)
                 {
-                    minId = list[count]._studentId;
+                    minValue = list[count]._studentID;
                     minPosn = count;
-                }                
+                }
             }
+
             return list[minPosn];
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Creat 10 student objects and add them to the list
-            for(int counter = 0; counter < StudentIDs.Count; counter++)
+            //Create 10 student objects and add them to the list
+            for (int counter=0; counter<studentIDs.Count; counter++)
             {
-                students.Add(new Student
-                {
-                    _studentId = StudentIDs[counter],
-                    _firstName = FirstNames[counter],
-                    _lastName = LastNames[counter]
-                });
+                students.Add(new Student { _studentID = studentIDs[counter], 
+                                           _firstName = firstNames[counter], 
+                                           _lastName = lastnames[counter] });
             }
 
-            // Adding students struct to the listbox
-            foreach (Student s in students)            
-                UI_Display_Lbx.Items.Add(StudentToString(s));            
+            //Adding students structs to the ListBox
+            foreach (Student s in students)
+                UI_Display_Lbx.Items.Add(StudentToString(s));
+
         }
 
         private void UI_MaxID_Btn_Click(object sender, EventArgs e)
         {
-            Student maxStudent = MaxId(students);
+            Student maxIDStudent = MaxId(students);
 
-            UI_MaxID_Tbx.Text = StudentToString(maxStudent);
+            UI_MaxID_Tbx.Text = StudentToString(maxIDStudent);
         }
 
         private void UI_MinID_Btn_Click(object sender, EventArgs e)
         {
-            Student minStudent = MinId(students);
-            UI_MinID_Tbx.Text = StudentToString(minStudent);
+            Student minIDStudent = MinId(students);
+
+            UI_MinID_Tbx.Text = StudentToString(minIDStudent);
         }
 
         private void UI_Display_Lbx_SelectedIndexChanged(object sender, EventArgs e)
         {
-            int index = UI_Display_Lbx.SelectedIndex;
+            int index= UI_Display_Lbx.SelectedIndex;
 
-            UI_StudentID_Tbx.Text = $"{students[index]._studentId}";
+            UI_StudentID_Tbx.Text = $"{students[index]._studentID}";
             UI_FirstName_Tbx.Text = students[index]._firstName;
             UI_LastName_Tbx.Text = students[index]._lastName;
+
         }
 
-        // Modifies a student info in the list box
         private void UI_ModifyStudent_Btn_Click(object sender, EventArgs e)
         {
             int index = UI_Display_Lbx.SelectedIndex;
-            Student modifiedStudent = new Student
-            {
-                _studentId = students[index]._studentId,
-                _firstName = UI_FirstName_Tbx.Text,
-                _lastName = UI_LastName_Tbx.Text
-            };
-            students[index] = modifiedStudent;
-            UI_Display_Lbx.Items.Clear();
+            Student newStudent = new Student { _studentID=students[index]._studentID,
+                                              _firstName=UI_FirstName_Tbx.Text,
+                                              _lastName= UI_LastName_Tbx.Text};
+            students[index] = newStudent;
 
-            // Adding students struct to the listbox
-            foreach (Student s in students)            
-                UI_Display_Lbx.Items.Add(StudentToString(s));            
+            UI_Display_Lbx.Items.Clear();
+            //Adding students structs to the ListBox
+            foreach (Student s in students)
+                UI_Display_Lbx.Items.Add(StudentToString(s));
+
         }
     }
 }

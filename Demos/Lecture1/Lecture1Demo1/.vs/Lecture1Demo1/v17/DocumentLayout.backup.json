@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo1\\",
+  "WorkspaceRootPath": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666\\Lecture1\\Lecture1Demo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33E92BD3-4EED-4C7F-B36B-F796A5379B21}|Lecture1Demo1\\Lecture1Demo1.csproj|c:\\users\\dkinganjatou1\\documents\\github\\cmpe-1666-1251-dareenkn\\lecture1demo1\\lecture1demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33E92BD3-4EED-4C7F-B36B-F796A5379B21}|Lecture1Demo1\\Lecture1Demo1.csproj|solutionrelative:lecture1demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96556200-FF37-4F2C-924F-23E862010385}|Lecture1Demo1\\Lecture1Demo1.csproj|c:\\users\\oveeyenm\\desktop\\cmpe1666\\lecture1\\lecture1demo1\\lecture1demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96556200-FF37-4F2C-924F-23E862010385}|Lecture1Demo1\\Lecture1Demo1.csproj|solutionrelative:lecture1demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo1\\Lecture1Demo1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666\\Lecture1\\Lecture1Demo1\\Lecture1Demo1\\Program.cs",
               "RelativeDocumentMoniker": "Lecture1Demo1\\Program.cs",
-              "ToolTip": "C:\\Users\\dkinganjatou1\\Documents\\GitHub\\cmpe-1666-1251-DareenKN\\Lecture1Demo1\\Lecture1Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666\\Lecture1\\Lecture1Demo1\\Lecture1Demo1\\Program.cs",
               "RelativeToolTip": "Lecture1Demo1\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAiwEMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T20:34:55.658Z",
+              "WhenOpened": "2025-09-02T20:34:49.051Z",
               "EditorCaption": ""
             }
           ]
