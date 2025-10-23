@@ -30,7 +30,6 @@ namespace ICA8_DareenKN
         string strData = "";    // The data in the file
 
         string[] ArrData;       // The data in an array
-        int[] data;             // The data in an integer array
 
         List<int> intList = new List<int>();
 
@@ -55,19 +54,23 @@ namespace ICA8_DareenKN
             Console.WriteLine($"The file name is {fileName}");
 
             strData = File.ReadAllText(fileName);
-            UI_DisplayData_Tbx.Text = strData;
+
+            ArrData = strData.Split(',');
+            intList = ArrData.Select(int.Parse).ToList();
+
+            UI_DisplayData_Tbx.Text = string.Join(", ", intList);
         }
 
         private void UI_SortValues_Btn_Click(object sender, EventArgs e)
         {
-            if (UI_SelectionSort_RadioBtn.Enabled)
+            if (UI_SelectionSort_RadioBtn.Checked)
             {
                 SelectionSort(intList);
                 UI_DisplaySortedData_Tbx.Clear();
 
-                
 
-                UI_DisplaySortedData_Tbx.Text = $"{intList}";
+
+                UI_DisplaySortedData_Tbx.Text = string.Join(", ", intList);
             }
         }
 
@@ -106,6 +109,11 @@ namespace ICA8_DareenKN
             int temp = myList[posn1];
             myList[posn1] = myList[posn2];
             myList[posn2] = temp;
+        }
+
+        private void UI_ClearSorted_Btn_Click(object sender, EventArgs e)
+        {
+            UI_DisplaySortedData_Tbx.Clear();
         }
     }
 }

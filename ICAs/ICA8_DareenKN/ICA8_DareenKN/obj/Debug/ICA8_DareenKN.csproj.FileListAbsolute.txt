@@ -9,3 +9,14 @@ C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA8_DareenKN\ICA8_DareenK
 C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.exe
 C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.pdb
 C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\bin\Debug\ICA8_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\bin\Debug\ICA8_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\bin\Debug\ICA8_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\ICAs\ICA8_DareenKN\ICA8_DareenKN\obj\Debug\ICA8_DareenKN.pdb

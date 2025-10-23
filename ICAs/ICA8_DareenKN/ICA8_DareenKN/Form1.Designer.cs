@@ -182,6 +182,7 @@
             this.UI_ClearSorted_Btn.TabIndex = 26;
             this.UI_ClearSorted_Btn.Text = "Clear Sorted";
             this.UI_ClearSorted_Btn.UseVisualStyleBackColor = false;
+            this.UI_ClearSorted_Btn.Click += new System.EventHandler(this.UI_ClearSorted_Btn_Click);
             // 
             // Form1
             // 
