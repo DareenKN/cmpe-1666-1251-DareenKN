@@ -104,6 +104,33 @@ namespace ICA8_DareenKN
             }
         }
 
+        private static void InsertinSort(List<int> list)
+        {
+            for (int passNum = 0; passNum < list.Count; passNum++)
+            {
+                //in each pass, we pick the value at position p in the list
+                int temp = list[passNum];
+
+                //We compare it with values behind it until fall out 
+                //of list or we obtain a value less than temp
+                int j = passNum - 1;
+
+                while ((j >= 0) && list[j] > temp)
+                {
+                    //larger valueu than temp, move one step to the rigth
+                    if (list[j] > temp)
+                    {
+                        list[j + 1] = list[j];
+                        j = j - 1;
+                    }
+                }
+                //When we leave the loop, j is either pointing to a 
+                //value less than temp oro we have fallen out od the list
+                //i.e j is -1. In any of these cases we have to place our temp value at position j+1
+                list[j + 1] = temp;
+            }
+        }
+
         private static void Swap(List<int> myList, int posn1, int posn2)
         {
             int temp = myList[posn1];
