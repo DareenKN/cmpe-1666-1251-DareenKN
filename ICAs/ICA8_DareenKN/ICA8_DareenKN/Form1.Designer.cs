@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.UI_DragAndDrop_Lbl = new System.Windows.Forms.Label();
             this.UI_SortingTime_Tbx = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -40,6 +41,7 @@
             this.UI_InsertionSort_RadioBtn = new System.Windows.Forms.RadioButton();
             this.UI_SelectionSort_RadioBtn = new System.Windows.Forms.RadioButton();
             this.UI_ClearSorted_Btn = new System.Windows.Forms.Button();
+            this.UI_SortingTime_Tmr = new System.Windows.Forms.Timer(this.components);
             this.UI_SortingMethod_Gbx.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -184,6 +186,10 @@
             this.UI_ClearSorted_Btn.UseVisualStyleBackColor = false;
             this.UI_ClearSorted_Btn.Click += new System.EventHandler(this.UI_ClearSorted_Btn_Click);
             // 
+            // UI_SortingTime_Tmr
+            // 
+            this.UI_SortingTime_Tmr.Tick += new System.EventHandler(this.UI_SortingTime_Tmr_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -222,6 +228,7 @@
         private System.Windows.Forms.RadioButton UI_InsertionSort_RadioBtn;
         private System.Windows.Forms.RadioButton UI_SelectionSort_RadioBtn;
         private System.Windows.Forms.Button UI_ClearSorted_Btn;
+        private System.Windows.Forms.Timer UI_SortingTime_Tmr;
     }
 }
 
