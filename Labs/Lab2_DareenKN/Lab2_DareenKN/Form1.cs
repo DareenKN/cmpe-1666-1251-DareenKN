@@ -28,12 +28,16 @@ namespace Lab2_DareenKN
         // Declaring a Struct for Employee
         private struct Employee
         {
-            int _employeeID;
-            string _firstName;
-            string _lastName;
+            public int _employeeID;
+            public string _firstName;
+            public string _lastName;
         }
 
+        int[] EmployeeID = { 28, 53, 12, 18, 8, 2, 19, 57, 62, 34, 23, 14, 48, 35, 55, 22, 26, 15, 7, 9, 32, 43, 41, 51 };
+        string[] FirstName = { "Emily", "Micheal", "Olivia", "Daniel", "Sophia", "Ethan", "Ava", "Benjamin", "Isabella", "Jacob", "Mia", "William", "Emma", "Alexander", "Charlotte", "James", "Amelia", "Logan", "Harper", "Elijah", "Grace", "Noah", "Lily", "Lucas" };
+        string[] LastName = { "Johnson", "Smith", "Williams", "Browns", "Jones", "Davis", "Miller", "Wilson", "Moore", "Taylor", "Anderson", "Thomas", "Jackson", "Moore", "Harris", "Martin", "Thompson", "Garcia", "Martinez", "Robnson", "Smith", "Rodriguez", "Lewis", "Clark"};
 
+        List<Employee> employees = new List<Employee>();
 
         public Form1()
         {
@@ -42,33 +46,17 @@ namespace Lab2_DareenKN
 
         private Employee CreateEmployee(int employeeID, string firstname, string lastName,)
         {
+            Employee emp = new Employee();
 
+            for (int i = 0; i < EmployeeID.Length; i++)
+            {                
+                emp._employeeID = EmployeeID[i];
+                emp._firstName = FirstName[i];
+                emp._lastName = LastName[i];
+            }
+
+            return emp;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
         private void UI_OpenFileThroughOFD_Btn_Click(object sender, EventArgs e)
@@ -87,5 +75,6 @@ namespace Lab2_DareenKN
 
             }
         }
+
     }
 }

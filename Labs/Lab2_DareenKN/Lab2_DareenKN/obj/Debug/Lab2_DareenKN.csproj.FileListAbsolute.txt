@@ -9,3 +9,14 @@ C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submission
 C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.exe
 C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.pdb
 C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.csproj.AssemblyReference.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.Form1.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.Properties.Resources.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.csproj.GenerateResource.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\obj\Debug\Lab2_DareenKN.pdb
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\bin\Debug\Lab2_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\bin\Debug\Lab2_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Labs\Lab2_DareenKN\Lab2_DareenKN\bin\Debug\Lab2_DareenKN.pdb

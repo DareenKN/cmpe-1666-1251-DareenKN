@@ -28,58 +28,58 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.UI_UnsortedData_Dgv = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
+            this.UI_DisplayUnsortedList_Btn = new System.Windows.Forms.Button();
+            this.UI_ClearUnsortedDataGrid_Btn = new System.Windows.Forms.Button();
+            this.UI_SortByEmployee_Btn = new System.Windows.Forms.Button();
+            this.UI_SortByLastNames_Btn = new System.Windows.Forms.Button();
+            this.UI_ClearSortedDataGrid_Btn = new System.Windows.Forms.Button();
             this.UI_OpenFileThroughOFD_Btn = new System.Windows.Forms.Button();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.UI_SortedData_Dgv = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.UI_FileData_RadioBtn = new System.Windows.Forms.RadioButton();
+            this.UI_ProvidedList_RadioBtn = new System.Windows.Forms.RadioButton();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.UI_TimeTaken_Tbx = new System.Windows.Forms.TextBox();
             this.UI_MainFile_Dlg = new System.Windows.Forms.OpenFileDialog();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.UI_UnsortedData_Dgv)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.UI_SortedData_Dgv)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // dataGridView1
+            // UI_UnsortedData_Dgv
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.UI_UnsortedData_Dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.UI_UnsortedData_Dgv.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
             this.Column2,
             this.Column3});
-            this.dataGridView1.Location = new System.Drawing.Point(12, 64);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersVisible = false;
-            this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
-            this.dataGridView1.Size = new System.Drawing.Size(340, 375);
-            this.dataGridView1.TabIndex = 0;
-            this.dataGridView1.TabStop = false;
+            this.UI_UnsortedData_Dgv.Location = new System.Drawing.Point(12, 64);
+            this.UI_UnsortedData_Dgv.Name = "UI_UnsortedData_Dgv";
+            this.UI_UnsortedData_Dgv.RowHeadersVisible = false;
+            this.UI_UnsortedData_Dgv.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
+            this.UI_UnsortedData_Dgv.Size = new System.Drawing.Size(340, 375);
+            this.UI_UnsortedData_Dgv.TabIndex = 0;
+            this.UI_UnsortedData_Dgv.TabStop = false;
             // 
             // Column1
             // 
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.Column1.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.Column1.DefaultCellStyle = dataGridViewCellStyle7;
             this.Column1.HeaderText = "Employee Id";
             this.Column1.Name = "Column1";
             this.Column1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
@@ -87,8 +87,8 @@
             // 
             // Column2
             // 
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.Column2.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.Column2.DefaultCellStyle = dataGridViewCellStyle8;
             this.Column2.HeaderText = "First Name";
             this.Column2.Name = "Column2";
             this.Column2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
@@ -96,57 +96,57 @@
             // 
             // Column3
             // 
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.Column3.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.Column3.DefaultCellStyle = dataGridViewCellStyle9;
             this.Column3.HeaderText = "Last Name";
             this.Column3.Name = "Column3";
             this.Column3.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
             this.Column3.Width = 110;
             // 
-            // button1
+            // UI_DisplayUnsortedList_Btn
             // 
-            this.button1.Location = new System.Drawing.Point(373, 64);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(120, 42);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Display Unsorted List";
-            this.button1.UseVisualStyleBackColor = true;
+            this.UI_DisplayUnsortedList_Btn.Location = new System.Drawing.Point(373, 64);
+            this.UI_DisplayUnsortedList_Btn.Name = "UI_DisplayUnsortedList_Btn";
+            this.UI_DisplayUnsortedList_Btn.Size = new System.Drawing.Size(120, 42);
+            this.UI_DisplayUnsortedList_Btn.TabIndex = 1;
+            this.UI_DisplayUnsortedList_Btn.Text = "Display Unsorted List";
+            this.UI_DisplayUnsortedList_Btn.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // UI_ClearUnsortedDataGrid_Btn
             // 
-            this.button2.Location = new System.Drawing.Point(373, 112);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(120, 42);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Clear Unsorted Data Grid";
-            this.button2.UseVisualStyleBackColor = true;
+            this.UI_ClearUnsortedDataGrid_Btn.Location = new System.Drawing.Point(373, 112);
+            this.UI_ClearUnsortedDataGrid_Btn.Name = "UI_ClearUnsortedDataGrid_Btn";
+            this.UI_ClearUnsortedDataGrid_Btn.Size = new System.Drawing.Size(120, 42);
+            this.UI_ClearUnsortedDataGrid_Btn.TabIndex = 2;
+            this.UI_ClearUnsortedDataGrid_Btn.Text = "Clear Unsorted Data Grid";
+            this.UI_ClearUnsortedDataGrid_Btn.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // UI_SortByEmployee_Btn
             // 
-            this.button3.Location = new System.Drawing.Point(373, 237);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(120, 42);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "Sort By EmployeeID";
-            this.button3.UseVisualStyleBackColor = true;
+            this.UI_SortByEmployee_Btn.Location = new System.Drawing.Point(373, 237);
+            this.UI_SortByEmployee_Btn.Name = "UI_SortByEmployee_Btn";
+            this.UI_SortByEmployee_Btn.Size = new System.Drawing.Size(120, 42);
+            this.UI_SortByEmployee_Btn.TabIndex = 4;
+            this.UI_SortByEmployee_Btn.Text = "Sort By EmployeeID";
+            this.UI_SortByEmployee_Btn.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // UI_SortByLastNames_Btn
             // 
-            this.button4.Location = new System.Drawing.Point(373, 285);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(120, 42);
-            this.button4.TabIndex = 5;
-            this.button4.Text = "Sort By Last Names";
-            this.button4.UseVisualStyleBackColor = true;
+            this.UI_SortByLastNames_Btn.Location = new System.Drawing.Point(373, 285);
+            this.UI_SortByLastNames_Btn.Name = "UI_SortByLastNames_Btn";
+            this.UI_SortByLastNames_Btn.Size = new System.Drawing.Size(120, 42);
+            this.UI_SortByLastNames_Btn.TabIndex = 5;
+            this.UI_SortByLastNames_Btn.Text = "Sort By Last Names";
+            this.UI_SortByLastNames_Btn.UseVisualStyleBackColor = true;
             // 
-            // button5
+            // UI_ClearSortedDataGrid_Btn
             // 
-            this.button5.Location = new System.Drawing.Point(373, 333);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(120, 42);
-            this.button5.TabIndex = 6;
-            this.button5.Text = "Clear Sorted Data Grid";
-            this.button5.UseVisualStyleBackColor = true;
+            this.UI_ClearSortedDataGrid_Btn.Location = new System.Drawing.Point(373, 333);
+            this.UI_ClearSortedDataGrid_Btn.Name = "UI_ClearSortedDataGrid_Btn";
+            this.UI_ClearSortedDataGrid_Btn.Size = new System.Drawing.Size(120, 42);
+            this.UI_ClearSortedDataGrid_Btn.TabIndex = 6;
+            this.UI_ClearSortedDataGrid_Btn.Text = "Clear Sorted Data Grid";
+            this.UI_ClearSortedDataGrid_Btn.UseVisualStyleBackColor = true;
             // 
             // UI_OpenFileThroughOFD_Btn
             // 
@@ -159,25 +159,25 @@
             this.UI_OpenFileThroughOFD_Btn.UseVisualStyleBackColor = true;
             this.UI_OpenFileThroughOFD_Btn.Click += new System.EventHandler(this.UI_OpenFileThroughOFD_Btn_Click);
             // 
-            // dataGridView2
+            // UI_SortedData_Dgv
             // 
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.UI_SortedData_Dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.UI_SortedData_Dgv.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.dataGridViewTextBoxColumn1,
             this.dataGridViewTextBoxColumn2,
             this.dataGridViewTextBoxColumn3});
-            this.dataGridView2.Location = new System.Drawing.Point(514, 64);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowHeadersVisible = false;
-            this.dataGridView2.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
-            this.dataGridView2.Size = new System.Drawing.Size(340, 375);
-            this.dataGridView2.TabIndex = 8;
-            this.dataGridView2.TabStop = false;
+            this.UI_SortedData_Dgv.Location = new System.Drawing.Point(514, 64);
+            this.UI_SortedData_Dgv.Name = "UI_SortedData_Dgv";
+            this.UI_SortedData_Dgv.RowHeadersVisible = false;
+            this.UI_SortedData_Dgv.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
+            this.UI_SortedData_Dgv.Size = new System.Drawing.Size(340, 375);
+            this.UI_SortedData_Dgv.TabIndex = 8;
+            this.UI_SortedData_Dgv.TabStop = false;
             // 
             // dataGridViewTextBoxColumn1
             // 
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.dataGridViewTextBoxColumn1.DefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.dataGridViewTextBoxColumn1.DefaultCellStyle = dataGridViewCellStyle10;
             this.dataGridViewTextBoxColumn1.HeaderText = "Employee Id";
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             this.dataGridViewTextBoxColumn1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
@@ -185,8 +185,8 @@
             // 
             // dataGridViewTextBoxColumn2
             // 
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.dataGridViewTextBoxColumn2.DefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.dataGridViewTextBoxColumn2.DefaultCellStyle = dataGridViewCellStyle11;
             this.dataGridViewTextBoxColumn2.HeaderText = "First Name";
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
             this.dataGridViewTextBoxColumn2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
@@ -194,8 +194,8 @@
             // 
             // dataGridViewTextBoxColumn3
             // 
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.dataGridViewTextBoxColumn3.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.dataGridViewTextBoxColumn3.DefaultCellStyle = dataGridViewCellStyle12;
             this.dataGridViewTextBoxColumn3.HeaderText = "Last Name";
             this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
             this.dataGridViewTextBoxColumn3.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
@@ -203,8 +203,8 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.radioButton2);
-            this.groupBox1.Controls.Add(this.radioButton1);
+            this.groupBox1.Controls.Add(this.UI_FileData_RadioBtn);
+            this.groupBox1.Controls.Add(this.UI_ProvidedList_RadioBtn);
             this.groupBox1.Location = new System.Drawing.Point(373, 160);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(120, 71);
@@ -212,27 +212,27 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Data Source";
             // 
-            // radioButton2
+            // UI_FileData_RadioBtn
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(16, 42);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(67, 17);
-            this.radioButton2.TabIndex = 1;
-            this.radioButton2.Text = "File Data";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.UI_FileData_RadioBtn.AutoSize = true;
+            this.UI_FileData_RadioBtn.Location = new System.Drawing.Point(16, 42);
+            this.UI_FileData_RadioBtn.Name = "UI_FileData_RadioBtn";
+            this.UI_FileData_RadioBtn.Size = new System.Drawing.Size(67, 17);
+            this.UI_FileData_RadioBtn.TabIndex = 1;
+            this.UI_FileData_RadioBtn.Text = "File Data";
+            this.UI_FileData_RadioBtn.UseVisualStyleBackColor = true;
             // 
-            // radioButton1
+            // UI_ProvidedList_RadioBtn
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Checked = true;
-            this.radioButton1.Location = new System.Drawing.Point(16, 19);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(86, 17);
-            this.radioButton1.TabIndex = 3;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Provided List";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.UI_ProvidedList_RadioBtn.AutoSize = true;
+            this.UI_ProvidedList_RadioBtn.Checked = true;
+            this.UI_ProvidedList_RadioBtn.Location = new System.Drawing.Point(16, 19);
+            this.UI_ProvidedList_RadioBtn.Name = "UI_ProvidedList_RadioBtn";
+            this.UI_ProvidedList_RadioBtn.Size = new System.Drawing.Size(86, 17);
+            this.UI_ProvidedList_RadioBtn.TabIndex = 3;
+            this.UI_ProvidedList_RadioBtn.TabStop = true;
+            this.UI_ProvidedList_RadioBtn.Text = "Provided List";
+            this.UI_ProvidedList_RadioBtn.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
@@ -264,14 +264,14 @@
             this.label3.TabIndex = 12;
             this.label3.Text = "Time Taken (Elapsed Ticks):";
             // 
-            // textBox1
+            // UI_TimeTaken_Tbx
             // 
-            this.textBox1.Location = new System.Drawing.Point(740, 466);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 13;
-            this.textBox1.TabStop = false;
+            this.UI_TimeTaken_Tbx.Location = new System.Drawing.Point(740, 466);
+            this.UI_TimeTaken_Tbx.Name = "UI_TimeTaken_Tbx";
+            this.UI_TimeTaken_Tbx.ReadOnly = true;
+            this.UI_TimeTaken_Tbx.Size = new System.Drawing.Size(100, 20);
+            this.UI_TimeTaken_Tbx.TabIndex = 13;
+            this.UI_TimeTaken_Tbx.TabStop = false;
             // 
             // UI_MainFile_Dlg
             // 
@@ -282,23 +282,23 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(868, 508);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.UI_TimeTaken_Tbx);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.dataGridView2);
+            this.Controls.Add(this.UI_SortedData_Dgv);
             this.Controls.Add(this.UI_OpenFileThroughOFD_Btn);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.UI_ClearSortedDataGrid_Btn);
+            this.Controls.Add(this.UI_SortByLastNames_Btn);
+            this.Controls.Add(this.UI_SortByEmployee_Btn);
+            this.Controls.Add(this.UI_ClearUnsortedDataGrid_Btn);
+            this.Controls.Add(this.UI_DisplayUnsortedList_Btn);
+            this.Controls.Add(this.UI_UnsortedData_Dgv);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.UI_UnsortedData_Dgv)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.UI_SortedData_Dgv)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -308,27 +308,27 @@
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.DataGridView UI_UnsortedData_Dgv;
+        private System.Windows.Forms.Button UI_DisplayUnsortedList_Btn;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button UI_ClearUnsortedDataGrid_Btn;
+        private System.Windows.Forms.Button UI_SortByEmployee_Btn;
+        private System.Windows.Forms.Button UI_SortByLastNames_Btn;
+        private System.Windows.Forms.Button UI_ClearSortedDataGrid_Btn;
         private System.Windows.Forms.Button UI_OpenFileThroughOFD_Btn;
-        private System.Windows.Forms.DataGridView dataGridView2;
+        private System.Windows.Forms.DataGridView UI_SortedData_Dgv;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.RadioButton UI_FileData_RadioBtn;
+        private System.Windows.Forms.RadioButton UI_ProvidedList_RadioBtn;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox UI_TimeTaken_Tbx;
         private System.Windows.Forms.OpenFileDialog UI_MainFile_Dlg;
     }
 }
