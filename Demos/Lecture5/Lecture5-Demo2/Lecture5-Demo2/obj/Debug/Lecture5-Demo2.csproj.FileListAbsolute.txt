@@ -1,0 +1,21 @@
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\bin\Debug\Lecture3-Demo2.exe.config
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\bin\Debug\Lecture3-Demo2.exe
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\bin\Debug\Lecture3-Demo2.pdb
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5-Demo2.csproj.AssemblyReference.cache
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5_Demo2.Form1.resources
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture3_Demo2.Properties.Resources.resources
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5-Demo2.csproj.GenerateResource.cache
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5-Demo2.csproj.CoreCompileInputs.cache
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture3-Demo2.exe
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture3-Demo2.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\bin\Debug\Lecture3-Demo2.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\bin\Debug\Lecture3-Demo2.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\bin\Debug\Lecture3-Demo2.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5-Demo2.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture3-Demo2.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5_Demo2.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture3_Demo2.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5-Demo2.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture5-Demo2.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture3-Demo2.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture5\Lecture5-Demo2\Lecture5-Demo2\obj\Debug\Lecture3-Demo2.pdb
