@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture6\\Lecture6Demo1\\",
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA390688-4B60-47F6-B660-39E2A16AC95E}|Lecture6Demo1\\Lecture6Demo1.csproj|c:\\users\\oveeyenm\\desktop\\cmpe1666_1251\\cmpe1666_1251\\lecture6\\lecture6demo1\\lecture6demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA390688-4B60-47F6-B660-39E2A16AC95E}|Lecture6Demo1\\Lecture6Demo1.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture6\\lecture6demo1\\lecture6demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA390688-4B60-47F6-B660-39E2A16AC95E}|Lecture6Demo1\\Lecture6Demo1.csproj|solutionrelative:lecture6demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture6\\Lecture6Demo1\\Lecture6Demo1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo1\\Lecture6Demo1\\Program.cs",
               "RelativeDocumentMoniker": "Lecture6Demo1\\Program.cs",
-              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture6\\Lecture6Demo1\\Lecture6Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo1\\Lecture6Demo1\\Program.cs",
               "RelativeToolTip": "Lecture6Demo1\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswCkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T20:32:50.903Z",
               "EditorCaption": ""
