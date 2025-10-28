@@ -29,7 +29,16 @@ namespace Lecture6Exercise1
 
         private void UI_CalculateFactorial_Btn_Click(object sender, EventArgs e)
         {
-           
+            int.TryParse(UI_Value_Tbx.Text, out int val);
+            UI_Result_Tbx.Text = $"{Factorial(val)}";
+        }
+
+        static private long Factorial(int n)
+        {
+            if (n >= 1)
+                return n * Factorial(n - 1);
+            else
+                return 1;
         }
     }
 }
