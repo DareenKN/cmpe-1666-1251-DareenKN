@@ -48,6 +48,7 @@
             // UI_DragAndDrop_Lbl
             // 
             this.UI_DragAndDrop_Lbl.AllowDrop = true;
+            this.UI_DragAndDrop_Lbl.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.UI_DragAndDrop_Lbl.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.UI_DragAndDrop_Lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UI_DragAndDrop_Lbl.Location = new System.Drawing.Point(83, 354);
@@ -68,6 +69,7 @@
             this.UI_SortingTime_Tbx.ReadOnly = true;
             this.UI_SortingTime_Tbx.Size = new System.Drawing.Size(103, 22);
             this.UI_SortingTime_Tbx.TabIndex = 20;
+            this.UI_SortingTime_Tbx.TabStop = false;
             // 
             // label3
             // 
@@ -96,7 +98,7 @@
             this.UI_SortValues_Btn.Location = new System.Drawing.Point(343, 176);
             this.UI_SortValues_Btn.Name = "UI_SortValues_Btn";
             this.UI_SortValues_Btn.Size = new System.Drawing.Size(106, 36);
-            this.UI_SortValues_Btn.TabIndex = 13;
+            this.UI_SortValues_Btn.TabIndex = 2;
             this.UI_SortValues_Btn.Text = "Sort Values";
             this.UI_SortValues_Btn.UseVisualStyleBackColor = false;
             this.UI_SortValues_Btn.Click += new System.EventHandler(this.UI_SortValues_Btn_Click);
@@ -115,6 +117,7 @@
             this.UI_DisplayData_Tbx.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.UI_DisplayData_Tbx.Size = new System.Drawing.Size(233, 290);
             this.UI_DisplayData_Tbx.TabIndex = 11;
+            this.UI_DisplayData_Tbx.TabStop = false;
             // 
             // label4
             // 
@@ -140,6 +143,7 @@
             this.UI_DisplaySortedData_Tbx.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.UI_DisplaySortedData_Tbx.Size = new System.Drawing.Size(233, 290);
             this.UI_DisplaySortedData_Tbx.TabIndex = 22;
+            this.UI_DisplaySortedData_Tbx.TabStop = false;
             // 
             // UI_SortingMethod_Gbx
             // 
@@ -169,19 +173,20 @@
             this.UI_SelectionSort_RadioBtn.Location = new System.Drawing.Point(16, 19);
             this.UI_SelectionSort_RadioBtn.Name = "UI_SelectionSort_RadioBtn";
             this.UI_SelectionSort_RadioBtn.Size = new System.Drawing.Size(91, 17);
-            this.UI_SelectionSort_RadioBtn.TabIndex = 3;
+            this.UI_SelectionSort_RadioBtn.TabIndex = 1;
             this.UI_SelectionSort_RadioBtn.TabStop = true;
             this.UI_SelectionSort_RadioBtn.Text = "Selection Sort";
             this.UI_SelectionSort_RadioBtn.UseVisualStyleBackColor = true;
             // 
             // UI_ClearSorted_Btn
             // 
+            this.UI_ClearSorted_Btn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.UI_ClearSorted_Btn.BackColor = System.Drawing.SystemColors.Menu;
             this.UI_ClearSorted_Btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UI_ClearSorted_Btn.Location = new System.Drawing.Point(595, 354);
             this.UI_ClearSorted_Btn.Name = "UI_ClearSorted_Btn";
             this.UI_ClearSorted_Btn.Size = new System.Drawing.Size(106, 36);
-            this.UI_ClearSorted_Btn.TabIndex = 26;
+            this.UI_ClearSorted_Btn.TabIndex = 3;
             this.UI_ClearSorted_Btn.Text = "Clear Sorted";
             this.UI_ClearSorted_Btn.UseVisualStyleBackColor = false;
             this.UI_ClearSorted_Btn.Click += new System.EventHandler(this.UI_ClearSorted_Btn_Click);
@@ -205,6 +210,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.UI_SortValues_Btn);
             this.Controls.Add(this.UI_DisplayData_Tbx);
+            this.MinimumSize = new System.Drawing.Size(816, 489);
             this.Name = "Form1";
             this.Text = "Form1";
             this.UI_SortingMethod_Gbx.ResumeLayout(false);
