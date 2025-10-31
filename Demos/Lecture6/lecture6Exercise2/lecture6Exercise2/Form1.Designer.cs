@@ -45,7 +45,7 @@
             this.UI_NumValues_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UI_NumValues_Tbx.Location = new System.Drawing.Point(244, 123);
             this.UI_NumValues_Tbx.Name = "UI_NumValues_Tbx";
-            this.UI_NumValues_Tbx.Size = new System.Drawing.Size(129, 30);
+            this.UI_NumValues_Tbx.Size = new System.Drawing.Size(129, 26);
             this.UI_NumValues_Tbx.TabIndex = 0;
             // 
             // Ui_NumValues_Lbl
@@ -54,7 +54,7 @@
             this.Ui_NumValues_Lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Ui_NumValues_Lbl.Location = new System.Drawing.Point(40, 126);
             this.Ui_NumValues_Lbl.Name = "Ui_NumValues_Lbl";
-            this.Ui_NumValues_Lbl.Size = new System.Drawing.Size(198, 25);
+            this.Ui_NumValues_Lbl.Size = new System.Drawing.Size(161, 20);
             this.Ui_NumValues_Lbl.TabIndex = 1;
             this.Ui_NumValues_Lbl.Text = "Number Of values: ";
             // 
@@ -67,6 +67,7 @@
             this.UI_GenerateValues_Btn.TabIndex = 2;
             this.UI_GenerateValues_Btn.Text = "Generate Values";
             this.UI_GenerateValues_Btn.UseVisualStyleBackColor = true;
+            this.UI_GenerateValues_Btn.Click += new System.EventHandler(this.UI_GenerateValues_Btn_Click);
             // 
             // UI_RecursiveSum_Btn
             // 
@@ -77,6 +78,7 @@
             this.UI_RecursiveSum_Btn.TabIndex = 3;
             this.UI_RecursiveSum_Btn.Text = "Recursive Sum";
             this.UI_RecursiveSum_Btn.UseVisualStyleBackColor = true;
+            this.UI_RecursiveSum_Btn.Click += new System.EventHandler(this.UI_RecursiveSum_Btn_Click);
             // 
             // UI_DivideAndSum_Btn
             // 
@@ -87,6 +89,7 @@
             this.UI_DivideAndSum_Btn.TabIndex = 4;
             this.UI_DivideAndSum_Btn.Text = "Divide And Sum";
             this.UI_DivideAndSum_Btn.UseVisualStyleBackColor = true;
+            this.UI_DivideAndSum_Btn.Click += new System.EventHandler(this.UI_DivideAndSum_Btn_Click);
             // 
             // UI_DisplayValues_Tbx
             // 
@@ -102,7 +105,7 @@
             this.UI_RecursiveSum_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UI_RecursiveSum_Tbx.Location = new System.Drawing.Point(802, 363);
             this.UI_RecursiveSum_Tbx.Name = "UI_RecursiveSum_Tbx";
-            this.UI_RecursiveSum_Tbx.Size = new System.Drawing.Size(80, 30);
+            this.UI_RecursiveSum_Tbx.Size = new System.Drawing.Size(80, 26);
             this.UI_RecursiveSum_Tbx.TabIndex = 6;
             // 
             // UI_DivideAndSum_Tbx
@@ -110,7 +113,7 @@
             this.UI_DivideAndSum_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UI_DivideAndSum_Tbx.Location = new System.Drawing.Point(802, 415);
             this.UI_DivideAndSum_Tbx.Name = "UI_DivideAndSum_Tbx";
-            this.UI_DivideAndSum_Tbx.Size = new System.Drawing.Size(80, 30);
+            this.UI_DivideAndSum_Tbx.Size = new System.Drawing.Size(80, 26);
             this.UI_DivideAndSum_Tbx.TabIndex = 7;
             // 
             // UI_RecursiveSum_Lbl
@@ -119,7 +122,7 @@
             this.UI_RecursiveSum_Lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UI_RecursiveSum_Lbl.Location = new System.Drawing.Point(575, 366);
             this.UI_RecursiveSum_Lbl.Name = "UI_RecursiveSum_Lbl";
-            this.UI_RecursiveSum_Lbl.Size = new System.Drawing.Size(246, 25);
+            this.UI_RecursiveSum_Lbl.Size = new System.Drawing.Size(205, 20);
             this.UI_RecursiveSum_Lbl.TabIndex = 8;
             this.UI_RecursiveSum_Lbl.Text = "\"Recursive Sum\" Result:";
             // 
@@ -129,7 +132,7 @@
             this.UI_DivideAndSum_Lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UI_DivideAndSum_Lbl.Location = new System.Drawing.Point(575, 421);
             this.UI_DivideAndSum_Lbl.Name = "UI_DivideAndSum_Lbl";
-            this.UI_DivideAndSum_Lbl.Size = new System.Drawing.Size(256, 25);
+            this.UI_DivideAndSum_Lbl.Size = new System.Drawing.Size(212, 20);
             this.UI_DivideAndSum_Lbl.TabIndex = 9;
             this.UI_DivideAndSum_Lbl.Text = "\"Divide And Sum\" Result:";
             // 
