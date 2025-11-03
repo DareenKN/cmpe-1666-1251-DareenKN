@@ -6,3 +6,11 @@ C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture6\Lecture6Demo2\Lec
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.exe
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.pdb
 C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\bin\Debug\Lecture6Demo2.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\bin\Debug\Lecture6Demo2.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\bin\Debug\Lecture6Demo2.pdb
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.csproj.AssemblyReference.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.csproj.CoreCompileInputs.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\cmpe-1666-1251-DareenKN\Demos\Lecture6\Lecture6Demo2\Lecture6Demo2\obj\Debug\Lecture6Demo2.pdb

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo2\\",
+  "WorkspaceRootPath": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6F51C13-F2F0-4530-8A6D-30AC036F0427}|Lecture6Demo2\\Lecture6Demo2.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture6\\lecture6demo2\\lecture6demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6F51C13-F2F0-4530-8A6D-30AC036F0427}|Lecture6Demo2\\Lecture6Demo2.csproj|c:\\users\\kidareen\\onedrive - nait\\desktop\\nait\u0027s stuffs\\github\\term 2\\cmpe-1666-1251-dareenkn\\demos\\lecture6\\lecture6demo2\\lecture6demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6F51C13-F2F0-4530-8A6D-30AC036F0427}|Lecture6Demo2\\Lecture6Demo2.csproj|solutionrelative:lecture6demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,17 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo2\\Lecture6Demo2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo2\\Lecture6Demo2\\Program.cs",
               "RelativeDocumentMoniker": "Lecture6Demo2\\Program.cs",
-              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo2\\Lecture6Demo2\\Program.cs",
-              "RelativeToolTip": "Lecture6Demo2\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\cmpe-1666-1251-DareenKN\\Demos\\Lecture6\\Lecture6Demo2\\Lecture6Demo2\\Program.cs*",
+              "RelativeToolTip": "Lecture6Demo2\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwCkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T20:33:08.173Z",
               "EditorCaption": ""
