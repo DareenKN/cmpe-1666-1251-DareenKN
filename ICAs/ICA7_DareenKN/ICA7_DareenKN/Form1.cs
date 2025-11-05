@@ -88,7 +88,18 @@ namespace ICA7_DareenKN
                 int.TryParse(ArrData[i], out data[i]);
 
             // Display the minimum value
-            UI_MinVal_Tbx.Text = $"{data.Min()}";
+            // UI_MinVal_Tbx.Text = $"{data.Min()}";
+
+            int min = data[0];         
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                if (data[i] < min)
+                    min = data[i];
+
+                UI_MinVal_Tbx.Text = $"{min}";
+
+            }
         }
 
         /// <summary>
@@ -109,7 +120,18 @@ namespace ICA7_DareenKN
                 int.TryParse(ArrData[i], out data[i]);
 
             // Display the maximum value
-            UI_MaxVal_Tbx.Text = $"{data.Max()}";
+            //UI_MaxVal_Tbx.Text = $"{data.Max()}";
+
+            int max = data[0];
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                if (data[i] > max)
+                    max = data[i];
+
+                UI_MaxVal_Tbx.Text = $"{max}";
+
+            }
         }
     }
 }
