@@ -48,7 +48,7 @@ namespace Lecture7Demo1
         // the indices low and high. It finds the value at the mid index
         // If the value matches the search value, the mid index is returnes
         // Otherwise it recursively searches the lower half ot the upper half
-        // based on wether the search value is lower than the one at middele index
+        // based on wether the search value is lower than the one at middle index
         // or higher than it
 
         static private int RBinarySearch(List<int> L, int low, int high, int val)
