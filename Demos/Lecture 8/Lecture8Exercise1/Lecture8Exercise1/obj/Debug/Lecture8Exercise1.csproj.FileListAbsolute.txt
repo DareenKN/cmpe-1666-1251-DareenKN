@@ -1,0 +1,12 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.ModalDialog.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\bin\Debug\Lecture8Exercise1.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\bin\Debug\Lecture8Exercise1.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\bin\Debug\Lecture8Exercise1.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture 8\Lecture8Exercise1\Lecture8Exercise1\obj\Debug\Lecture8Exercise1.exe.config
