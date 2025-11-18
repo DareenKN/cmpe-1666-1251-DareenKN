@@ -1,10 +1,9 @@
-﻿/* CMPE 1666 - Intermediate Programming
- * Name: Dareen Kinga Njatou
+﻿/* CMPE 1666- Intermediate programming
  * 
- * Description: Lecture 9 Demo 1 - Introduction to Delegates
- *
- * Date: October 17 2025
+ * Lecture9-Demo1- Introduction To delegates
+ * 
  */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,32 +14,31 @@ namespace Lecture9Demo1
 {
     internal class Program
     {
-        // Creating a delegate type
-        public delegate void DelSingleString(string str);
-
+        //Creating a delegate type
+        public delegate void delSingleString(string str);
         static void Main(string[] args)
         {
-            // We create an object of class DelSingleString and assign the 
-            // method displayString to it
-            DelSingleString firstObject = new DelSingleString(DisplayString);
+            //We create an object of class delSingleString and assign the 
+            //method displayString to it.
+            delSingleString firstObject = new delSingleString(displayString);
 
-            // We need to invoke DisplaySString(), we can do it through the delegate object
-            firstObject.Invoke("Hello - How are you?");
+            //When we need to invoke displayString(), we can do it through the delegate object
+            firstObject.Invoke("Hello- How are you?");
+            
+            delSingleString secondObject=new delSingleString(displayUpper);
+            secondObject.Invoke("Hello- How are you?");
 
-            DelSingleString secondObject = new DelSingleString(DisplayUpper);
-            secondObject.Invoke("Hello - How are you?");
 
-
-            Console.ReadKey();
         }
 
-        private static void DisplayString(string s)
+        static private void displayString(string s)
         {
             Console.WriteLine(s);
         }
-        private static void DisplayUpper(string s)
+        static private void displayUpper(string s1)
         {
-            Console.WriteLine(s.ToUpper());
+            Console.WriteLine(s1.ToUpper());
         }
+
     }
 }
