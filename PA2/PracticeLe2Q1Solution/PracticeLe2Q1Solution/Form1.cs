@@ -21,7 +21,7 @@ namespace PracticeLe2Q1Solution
         private void UI_Roll_Count_Click(object sender, EventArgs e)
         {
             string[] stringArray= UI_TextInput_Tbx.Text.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            int result=RecursiveSearch2(stringArray,UI_SearchItem_Tbx.Text,0, stringArray.Length-1);
+            int result=RecursiveSearch(stringArray,UI_SearchItem_Tbx.Text,0, stringArray.Length-1);
             Text = $"Found {result} instances of the word";
         }
 
@@ -46,10 +46,9 @@ namespace PracticeLe2Q1Solution
         private int RecursiveSearch2(string[] stringArray, string searchString, int startIndex, int endIndex)
         {
 
-            if (startIndex > endIndex)
-            {
+            if (startIndex > endIndex)            
                 return 0;
-            }
+            
             else if (stringArray[startIndex] == searchString)
                 return 1 + RecursiveSearch2(stringArray, searchString, startIndex + 1, endIndex);
 
