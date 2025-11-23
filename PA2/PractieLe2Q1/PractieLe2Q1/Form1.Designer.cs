@@ -71,6 +71,7 @@
             this.UI_LoadFile_Btn.TabIndex = 5;
             this.UI_LoadFile_Btn.Text = "Load File";
             this.UI_LoadFile_Btn.UseVisualStyleBackColor = true;
+            this.UI_LoadFile_Btn.Click += new System.EventHandler(this.UI_LoadFile_Btn_Click);
             // 
             // UI_DataFile_OFD
             // 

@@ -37,9 +37,10 @@
             // 
             // UI_LoadFile_Btn
             // 
-            this.UI_LoadFile_Btn.Location = new System.Drawing.Point(81, 45);
+            this.UI_LoadFile_Btn.Location = new System.Drawing.Point(54, 29);
+            this.UI_LoadFile_Btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.UI_LoadFile_Btn.Name = "UI_LoadFile_Btn";
-            this.UI_LoadFile_Btn.Size = new System.Drawing.Size(198, 60);
+            this.UI_LoadFile_Btn.Size = new System.Drawing.Size(132, 39);
             this.UI_LoadFile_Btn.TabIndex = 0;
             this.UI_LoadFile_Btn.Text = "Load File";
             this.UI_LoadFile_Btn.UseVisualStyleBackColor = true;
@@ -47,16 +48,18 @@
             // 
             // UI_TextInput_Tbx
             // 
-            this.UI_TextInput_Tbx.Location = new System.Drawing.Point(86, 136);
+            this.UI_TextInput_Tbx.Location = new System.Drawing.Point(57, 88);
+            this.UI_TextInput_Tbx.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.UI_TextInput_Tbx.Name = "UI_TextInput_Tbx";
-            this.UI_TextInput_Tbx.Size = new System.Drawing.Size(430, 26);
+            this.UI_TextInput_Tbx.Size = new System.Drawing.Size(288, 20);
             this.UI_TextInput_Tbx.TabIndex = 1;
             // 
             // UI_Roll_Count
             // 
-            this.UI_Roll_Count.Location = new System.Drawing.Point(106, 275);
+            this.UI_Roll_Count.Location = new System.Drawing.Point(71, 179);
+            this.UI_Roll_Count.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.UI_Roll_Count.Name = "UI_Roll_Count";
-            this.UI_Roll_Count.Size = new System.Drawing.Size(239, 67);
+            this.UI_Roll_Count.Size = new System.Drawing.Size(159, 44);
             this.UI_Roll_Count.TabIndex = 2;
             this.UI_Roll_Count.Text = "Roll Count";
             this.UI_Roll_Count.UseVisualStyleBackColor = true;
@@ -64,9 +67,10 @@
             // 
             // UI_SearchItem_Tbx
             // 
-            this.UI_SearchItem_Tbx.Location = new System.Drawing.Point(86, 380);
+            this.UI_SearchItem_Tbx.Location = new System.Drawing.Point(57, 247);
+            this.UI_SearchItem_Tbx.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.UI_SearchItem_Tbx.Name = "UI_SearchItem_Tbx";
-            this.UI_SearchItem_Tbx.Size = new System.Drawing.Size(430, 26);
+            this.UI_SearchItem_Tbx.Size = new System.Drawing.Size(288, 20);
             this.UI_SearchItem_Tbx.TabIndex = 3;
             // 
             // UI_DataFile_OFD
@@ -75,13 +79,14 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(533, 292);
             this.Controls.Add(this.UI_SearchItem_Tbx);
             this.Controls.Add(this.UI_Roll_Count);
             this.Controls.Add(this.UI_TextInput_Tbx);
             this.Controls.Add(this.UI_LoadFile_Btn);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
