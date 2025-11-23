@@ -10,17 +10,14 @@ using System.Windows.Forms;
 
 namespace Lecture9Demo2
 {
-    // We create the delegate type here for communication
-    // between this form and the main form - Our DelType
-    // will have a single parameter and returns nothing
+    //We create the delegate type here for communication between this form and
+    //the main form - Our delegate type will have a single string parameter and returns nothing
     public delegate void delVoidString(string s);
-
     public partial class ModelessDialogForm : Form
     {
-        // We create a delegate object to execute a call back on the main form
-        // The invocation will occur when the text in the textbox changes
-        public delVoidString _dTextChanged = null;
-
+        //We'll create a delegate object to execute a callback on the main form
+        //The invocation will occur when the text in the textbox changes
+        public delVoidString _dTextChanged=null;
         public ModelessDialogForm()
         {
             InitializeComponent();
@@ -28,11 +25,8 @@ namespace Lecture9Demo2
 
         private void UI_Input_Tbx_TextChanged(object sender, EventArgs e)
         {
-            if(_dTextChanged != null)                
+            if (_dTextChanged !=null)
                 _dTextChanged(UI_Input_Tbx.Text);
-            
-            // MessageBox.Show($"Error can't read the text");
-
         }
     }
 }

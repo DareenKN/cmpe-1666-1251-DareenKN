@@ -1,44 +1,53 @@
-﻿using System;
+﻿
+/**CMPE 1666- Intermediate Programming
+ * 
+ * Lecture 9- Exercise1
+ * 
+ * Working with delegates
+ *  
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Lecture9Exercise1
 {
     internal class Program
-    {
-        // Creating a delegate type
-        public delegate int delBinaryOp(int val1, int val2);
+    {  //Creating the delegate type
+        public delegate int delBinaryOp(int x, int y);
         static void Main(string[] args)
         {
-            // Creating appropriate delegate objects
-            delBinaryOp Obj1 = new delBinaryOp(Addition);
-            delBinaryOp Obj2 = new delBinaryOp(Multiplication);
-            delBinaryOp Obj3 = new delBinaryOp(Division);
+            delBinaryOp _delAdd = new delBinaryOp(Addition);
+            delBinaryOp _delMult = new delBinaryOp(Multiplication);
+            delBinaryOp _delDiv = new delBinaryOp(Division);
 
-            // Using them
-            Console.WriteLine($"{Obj1.Invoke(2, 6)}");
-            Console.WriteLine($"{Obj2.Invoke(6, 7)}");
-            Console.WriteLine($"{Obj3.Invoke(32, 4)}");
+            Console.WriteLine($"_delAdd.Invoke(6,5) gives us: {_delAdd.Invoke(6,5)}");
+            Console.WriteLine($"_delMult.Invoke(6,5) gives us: {_delMult.Invoke(6, 5)}");
+            Console.WriteLine($"_delDiv.Invoke(19,5) gives us: {_delDiv.Invoke(19, 5)}");
+            Console.WriteLine();
 
+            Console.WriteLine("Press Any Key To Exit Program");
             Console.ReadKey();
-
         }
 
-        // 3 Methods with 2 int parameter and return an int result
-        static int Addition(int val1, int vall2)
+
+        static private int Addition(int val1, int val2)
         {
-            return val1 + vall2;
+            return val1 + val2;
         }
-        static int Multiplication(int val1, int val2)
+
+        static private int Multiplication(int val1, int val2)
         {
-            return val1 * val2;
+            return val1*val2;
         }
-        static int Division(int val1, int val2)
+
+        static private int Division(int val1, int val2)
         {
-            return val1 / val2;
+            return val1/val2;
         }
+
     }
 }

@@ -33,9 +33,10 @@
             // 
             // UI_Input_Tbx
             // 
-            this.UI_Input_Tbx.Location = new System.Drawing.Point(42, 44);
+            this.UI_Input_Tbx.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UI_Input_Tbx.Location = new System.Drawing.Point(39, 47);
             this.UI_Input_Tbx.Name = "UI_Input_Tbx";
-            this.UI_Input_Tbx.Size = new System.Drawing.Size(466, 20);
+            this.UI_Input_Tbx.Size = new System.Drawing.Size(490, 22);
             this.UI_Input_Tbx.TabIndex = 0;
             this.UI_Input_Tbx.TextChanged += new System.EventHandler(this.UI_Input_Tbx_TextChanged);
             // 
@@ -43,7 +44,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(560, 107);
+            this.ClientSize = new System.Drawing.Size(592, 119);
             this.Controls.Add(this.UI_Input_Tbx);
             this.Name = "ModelessDialogForm";
             this.Text = "ModelessDialogForm";
