@@ -63,6 +63,7 @@
             this.UI_GenValues_Btn.TabIndex = 0;
             this.UI_GenValues_Btn.Text = "Generate Values";
             this.UI_GenValues_Btn.UseVisualStyleBackColor = true;
+            this.UI_GenValues_Btn.Click += new System.EventHandler(this.UI_GenValues_Btn_Click);
             // 
             // button2
             // 
@@ -83,6 +84,7 @@
             this.UI_Sort_btn.TabIndex = 4;
             this.UI_Sort_btn.Text = "Sort";
             this.UI_Sort_btn.UseVisualStyleBackColor = true;
+            this.UI_Sort_btn.Click += new System.EventHandler(this.UI_Sort_btn_Click);
             // 
             // UI_BubbleSort_Radio
             // 
@@ -95,6 +97,7 @@
             this.UI_BubbleSort_Radio.TabStop = true;
             this.UI_BubbleSort_Radio.Text = "Bubble Sort";
             this.UI_BubbleSort_Radio.UseVisualStyleBackColor = true;
+            this.UI_BubbleSort_Radio.CheckedChanged += new System.EventHandler(this.UI_SortTechnique_Radio_CheckedChanged);
             // 
             // UI_SelectionSort_Radio
             // 
@@ -105,6 +108,7 @@
             this.UI_SelectionSort_Radio.TabIndex = 7;
             this.UI_SelectionSort_Radio.Text = "Selection Sort";
             this.UI_SelectionSort_Radio.UseVisualStyleBackColor = true;
+            this.UI_SelectionSort_Radio.CheckedChanged += new System.EventHandler(this.UI_SortTechnique_Radio_CheckedChanged);
             // 
             // UI_Sorting_GBx
             // 
@@ -127,6 +131,7 @@
             this.UI_QuickSort_Radio.TabIndex = 8;
             this.UI_QuickSort_Radio.Text = "Quick Sort";
             this.UI_QuickSort_Radio.UseVisualStyleBackColor = true;
+            this.UI_QuickSort_Radio.CheckedChanged += new System.EventHandler(this.UI_SortTechnique_Radio_CheckedChanged);
             // 
             // UI_SearchValue_Tbx
             // 
@@ -208,6 +213,7 @@
             this.UI_DisplayList_Btn.TabIndex = 17;
             this.UI_DisplayList_Btn.Text = "Display Search List";
             this.UI_DisplayList_Btn.UseVisualStyleBackColor = true;
+            this.UI_DisplayList_Btn.Click += new System.EventHandler(this.UI_DisplayList_Btn_Click);
             // 
             // groupBox1
             // 
