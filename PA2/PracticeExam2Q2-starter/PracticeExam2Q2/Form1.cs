@@ -25,9 +25,9 @@ namespace PracticeExam2Q2
         List<int> dataList = new List<int>();
         Random rand = new Random();
 
-        List<int> searchList = new List<int>() {23,24,45,54,59,67,92,95,102,105,110 };
+        List<int> searchList = new List<int>() { 23, 24, 45, 54, 59, 67, 92, 95, 102, 105, 110 };
         //You can include any required class-level variable declaration here
-        
+
         public Form1()
         {
             InitializeComponent();
@@ -67,9 +67,9 @@ namespace PracticeExam2Q2
         {
             switch (mode)
             {
-                case 1:BubbleSort(list);                    break;
-                case 2:SelectionSort(list);                 break;
-                case 3:QuickSort(list, 0, list.Count - 1);  break;
+                case 1: BubbleSort(list); break;
+                case 2: SelectionSort(list); break;
+                case 3: QuickSort(list, 0, list.Count - 1); break;
             }
         }
 
@@ -147,7 +147,7 @@ namespace PracticeExam2Q2
             }
 
             // Sort base on the radio buttonns
-            if (UI_BubbleSort_Radio.Checked) 
+            if (UI_BubbleSort_Radio.Checked)
                 SortData(dataList, 1);
             if (UI_SelectionSort_Radio.Checked)
                 SortData(dataList, 2);
@@ -158,6 +158,38 @@ namespace PracticeExam2Q2
             foreach (int data in dataList)
                 UI_Sorted_Tbx.Text = string.Join(", ", dataList);
         }
+    
+    // Binary Search
+    private int BinarySearch(List<int> list, int searchItem, int low, int high)
+        {
+            if (high < low)
+                return -1;
+
+            else
+            {
+                int mid = (low + high) / 2;
+                if (searchItem == list[mid])
+                    return mid;
+                else if (searchItem < list[mid])
+                    return BinarySearch(list, searchItem, low, mid - 1);
+                else
+                    return BinarySearch(list, searchItem, mid + 1, high);
+            }
+        }
+
+        private void UI_PerformSearch_Btn_Click(object sender, EventArgs e)
+        {
+            int searchItem;
+            int.TryParse(UI_SearchValue_Tbx.Text, out searchItem);
+
+            int searchIndex = BinarySearch(searchList, searchItem, 0, searchList.Count - 1);
+
+            if (searchIndex >= 0)
+                UI_SearchResults_Lbx.Items.Add($"{searchItem} found at index {searchIndex}");
+            else
+                UI_SearchResults_Lbx.Items.Add($"{searchItem} not found");
+
+        }
     }
-    }
+}
 

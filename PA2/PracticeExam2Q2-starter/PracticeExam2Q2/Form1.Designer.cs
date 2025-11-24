@@ -158,6 +158,7 @@
             this.UI_PerformSearch_Btn.TabIndex = 11;
             this.UI_PerformSearch_Btn.Text = "Perform Search";
             this.UI_PerformSearch_Btn.UseVisualStyleBackColor = true;
+            this.UI_PerformSearch_Btn.Click += new System.EventHandler(this.UI_PerformSearch_Btn_Click);
             // 
             // UI_SearchResults_Lbx
             // 
