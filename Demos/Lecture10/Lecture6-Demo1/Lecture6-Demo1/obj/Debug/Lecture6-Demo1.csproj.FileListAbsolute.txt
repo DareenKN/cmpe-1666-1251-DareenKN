@@ -1,0 +1,15 @@
+C:\Users\ovn0562\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\ProjectsTrials\Lecture6-Demo1\Lecture6-Demo1\bin\Debug\Lecture6-Demo1.exe.config
+C:\Users\ovn0562\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\ProjectsTrials\Lecture6-Demo1\Lecture6-Demo1\bin\Debug\Lecture6-Demo1.exe
+C:\Users\ovn0562\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\ProjectsTrials\Lecture6-Demo1\Lecture6-Demo1\bin\Debug\Lecture6-Demo1.pdb
+C:\Users\ovn0562\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\ProjectsTrials\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.csprojAssemblyReference.cache
+C:\Users\ovn0562\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\ProjectsTrials\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.csproj.CoreCompileInputs.cache
+C:\Users\ovn0562\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\ProjectsTrials\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.exe
+C:\Users\ovn0562\OneDrive\Desktop\NaitCourses\CMPE1666-Intermediate Programming\ProjectsTrials\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\bin\Debug\Lecture6-Demo1.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\bin\Debug\Lecture6-Demo1.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\bin\Debug\Lecture6-Demo1.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture6-Demo1\Lecture6-Demo1\obj\Debug\Lecture6-Demo1.pdb
