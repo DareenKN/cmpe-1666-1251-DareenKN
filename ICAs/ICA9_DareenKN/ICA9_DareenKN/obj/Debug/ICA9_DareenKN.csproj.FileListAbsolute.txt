@@ -1,0 +1,22 @@
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\bin\Debug\ICA9_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\bin\Debug\ICA9_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\bin\Debug\ICA9_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.Form1.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\bin\Debug\ICA9_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\bin\Debug\ICA9_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\bin\Debug\ICA9_DareenKN.pdb
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.csproj.AssemblyReference.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.Form1.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.Properties.Resources.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.csproj.GenerateResource.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\ICA9_DareenKN\ICA9_DareenKN\obj\Debug\ICA9_DareenKN.pdb

@@ -49,7 +49,7 @@ namespace Lecture4Demo1
             //We'll write the list in the file "file1.txt" in the default folder
             File.WriteAllLines("file1.txt", textList);
             File.WriteAllLines("../../../../file1.txt", textList);
-            MessageBox.Show("Data has veen saved to the file \"file1.txt\" ");
+            MessageBox.Show("Data has been saved to the file \"file1.txt\" ");
         }
     }
 }

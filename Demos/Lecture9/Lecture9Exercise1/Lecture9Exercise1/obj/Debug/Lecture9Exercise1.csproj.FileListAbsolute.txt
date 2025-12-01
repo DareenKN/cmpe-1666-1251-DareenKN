@@ -1,0 +1,8 @@
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\bin\Debug\Lecture9Exercise1.exe.config
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\bin\Debug\Lecture9Exercise1.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\bin\Debug\Lecture9Exercise1.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\obj\Debug\Lecture9Exercise1.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\obj\Debug\Lecture9Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\obj\Debug\Lecture9Exercise1.exe
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\obj\Debug\Lecture9Exercise1.pdb
+C:\Users\oveeyenm\Desktop\CMPE1666_1251\CMPE1666_1251\Lecture9\Lecture9Exercise1\Lecture9Exercise1\obj\Debug\Lecture9Exercise1.exe.config

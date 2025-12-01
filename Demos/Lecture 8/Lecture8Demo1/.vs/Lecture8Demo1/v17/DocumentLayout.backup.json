@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture 8\\Lecture8Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF809BF-A8E9-4454-BBBB-E9F075D00FD1}|Lecture8Demo1\\Lecture8Demo1.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\demos\\lecture 8\\lecture8demo1\\lecture8demo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF809BF-A8E9-4454-BBBB-E9F075D00FD1}|Lecture8Demo1\\Lecture8Demo1.csproj|solutionrelative:lecture8demo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture 8\\Lecture8Demo1\\Lecture8Demo1\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture8Demo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\Demos\\Lecture 8\\Lecture8Demo1\\Lecture8Demo1\\Form1.cs [Design]",
+              "RelativeToolTip": "Lecture8Demo1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T17:02:42.504Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture10Demo2\Lecture10Demo2\bin\Debug\Lecture10Demo2.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture10Demo2\Lecture10Demo2\bin\Debug\Lecture10Demo2.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture10Demo2\Lecture10Demo2\bin\Debug\Lecture10Demo2.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture10Demo2\Lecture10Demo2\obj\Debug\Lecture10Demo2.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture10Demo2\Lecture10Demo2\obj\Debug\Lecture10Demo2.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture10Demo2\Lecture10Demo2\obj\Debug\Lecture10Demo2.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lecture10Demo2\Lecture10Demo2\obj\Debug\Lecture10Demo2.pdb

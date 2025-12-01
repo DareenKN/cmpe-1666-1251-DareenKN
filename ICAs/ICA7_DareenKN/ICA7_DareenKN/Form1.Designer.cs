@@ -43,6 +43,7 @@
             // 
             // UI_DisplayData_Tbx
             // 
+            this.UI_DisplayData_Tbx.AllowDrop = true;
             this.UI_DisplayData_Tbx.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.UI_DisplayData_Tbx.BackColor = System.Drawing.SystemColors.ControlLight;
@@ -54,6 +55,8 @@
             this.UI_DisplayData_Tbx.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.UI_DisplayData_Tbx.Size = new System.Drawing.Size(233, 290);
             this.UI_DisplayData_Tbx.TabIndex = 0;
+            this.UI_DisplayData_Tbx.DragDrop += new System.Windows.Forms.DragEventHandler(this.UI_DragAndDrop_Lbl_DragDrop);
+            this.UI_DisplayData_Tbx.DragEnter += new System.Windows.Forms.DragEventHandler(this.UI_DragAndDrop_Lbl_DragEnter);
             // 
             // UI_DisplayCount_Btn
             // 

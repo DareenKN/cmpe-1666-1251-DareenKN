@@ -1,0 +1,7 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture7\Week10Day2QuickSort\Week10Day2QuickSort\obj\Debug\Week10Day2QuickSort.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture7\Week10Day2QuickSort\Week10Day2QuickSort\obj\Debug\Week10Day2QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture7\Week10Day2QuickSort\Week10Day2QuickSort\bin\Debug\Week10Day2QuickSort.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture7\Week10Day2QuickSort\Week10Day2QuickSort\bin\Debug\Week10Day2QuickSort.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture7\Week10Day2QuickSort\Week10Day2QuickSort\bin\Debug\Week10Day2QuickSort.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture7\Week10Day2QuickSort\Week10Day2QuickSort\obj\Debug\Week10Day2QuickSort.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture7\Week10Day2QuickSort\Week10Day2QuickSort\obj\Debug\Week10Day2QuickSort.pdb

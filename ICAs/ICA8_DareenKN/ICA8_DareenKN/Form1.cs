@@ -21,14 +21,10 @@ namespace ICA8_DareenKN
 {
     public partial class Form1 : Form
     {
-        string fileName;        // The file's Name
-
-        string strData = "";    // The data in the file
-        string[] ArrData;       // The data in an array
+        string fileName;    // The file's Name        
         
         List<int> intList = new List<int>();    // List containing the integers
-
-        private Stopwatch sw = new Stopwatch(); // Stopwatch to count the ellapsed ticks
+        private Stopwatch sw = new Stopwatch(); // Stopwatch to count the elapsed ticks
 
         public Form1()
         {
@@ -42,7 +38,7 @@ namespace ICA8_DareenKN
         /// <param name="e"></param>
         private void UI_DragAndDrop_Lbl_DragEnter(object sender, DragEventArgs e)
         {
-            if (e.Data.GetDataPresent(DataFormats.FileDrop))
+            if (e.Data.GetDataPresent(DataFormats.FileDrop)) 
                 e.Effect = DragDropEffects.Copy;
             else
                 e.Effect = DragDropEffects.None;
@@ -60,15 +56,31 @@ namespace ICA8_DareenKN
             fileName = ((string[])e.Data.GetData(DataFormats.FileDrop)).First();
             Console.WriteLine($"The file name is {fileName}");
 
-            // Reading the data found in the file and storing it in a string
-            strData = File.ReadAllText(fileName);
+            string strData = "";    // The data in the file
+            string[] ArrData;       // The data in an array
 
-            // Spliting the data from the string at the commas and storing in an array
-            ArrData = strData.Split(',');
             
-            // Converting each string in the array to an integer and adding them in the list of int
-            foreach (string str in ArrData)
-                intList.Add(int.Parse(str));
+            try
+            {
+                // Reading the data found in the file and storing it in a string
+                strData = File.ReadAllText(fileName);
+
+                // Spliting the data from the string at the commas and storing in an array
+                ArrData = strData.Split(',');
+
+                // Clear the list before adding new data
+                intList.Clear();
+
+                // Converting each string in the array to an integer and adding them in the list of int
+                foreach (string str in ArrData)
+                    intList.Add(int.Parse(str));
+            }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error reading data from file: {ex.Message}", "Load Error");
+            }
+
 
             // Displaying the data from the list in the unsorted textbox
             UI_DisplayData_Tbx.Text = string.Join(", ", intList);
@@ -80,22 +92,34 @@ namespace ICA8_DareenKN
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void UI_SortValues_Btn_Click(object sender, EventArgs e)
-        {            
+        {
+            //Check if list is empty 
+            if (intList.Count() == 0)
+            {
+                MessageBox.Show("Please give me data first");
+                return;
+            }
             // Enabling the timer
             UI_SortingTime_Tmr.Enabled = true;
-            
+
             // What happens when selection sorting is selected
-            if (UI_SelectionSort_RadioBtn.Checked)
+            try
             {
                 // Reseting and Starting the stop watch
                 sw.Restart();
+                if (UI_SelectionSort_RadioBtn.Checked)                
+                    // Perform the Selection Sort
+                    SelectionSort(intList);
+                
 
-                // Perform the Selection Sort
-                SelectionSort(intList);
-
+                // What happens when insertion sorting is selected
+                else if (UI_InsertionSort_RadioBtn.Checked)                
+                    // Perform the Insertion Sort
+                    InsertionSort(intList);
+                
                 //Stop the stop watch
                 sw.Stop();
-                
+
                 // Clearing the Sorted Data textbox
                 UI_DisplaySortedData_Tbx.Clear();
 
@@ -103,23 +127,9 @@ namespace ICA8_DareenKN
                 UI_DisplaySortedData_Tbx.Text = String.Join(", ", intList);
             }
 
-            // What happens when insertion sorting is selected
-            else if (UI_InsertionSort_RadioBtn.Checked)
+            catch (Exception ex)
             {
-                // Reseting and Starting the stop watch
-                sw.Restart();
-
-                // Perform the Insertion Sort
-                InsertionSort(intList);
-
-                //Stop the stop watch
-                sw.Stop();
-
-                // Clearing the Sorted Data textbox
-                UI_DisplaySortedData_Tbx.Clear();
-
-                // Displaying the newly sorted data Textbox
-                UI_DisplaySortedData_Tbx.Text = String.Join(", ", intList);
+                MessageBox.Show($"Error loading file: {ex.Message}", "Load Error");
             }
 
         }
@@ -139,14 +149,12 @@ namespace ICA8_DareenKN
                                                 // of the still unsorted list
 
                 // In each pass we iterate over the still unsorted pa
-                // and fins the maximum value, which we send to the la
+                // and find the maximum value, which we send to the la
                 // unsorted position
                 for (int j = 0; j <= last_posn; j++)
                 {
-                    if (list[j] > list[max_posn])
-                    {
-                        max_posn = j;
-                    }
+                    if (list[j] > list[max_posn])                    
+                        max_posn = j;                    
                 }
 
                 // Perform Swapping
@@ -166,6 +174,19 @@ namespace ICA8_DareenKN
             int temp = myList[posn1];
             myList[posn1] = myList[posn2];
             myList[posn2] = temp;
+        }
+
+        // Clearing the Sorted Data textbox
+        private void UI_ClearSorted_Btn_Click(object sender, EventArgs e)
+        {
+            UI_DisplaySortedData_Tbx.Clear();
+        }
+
+        // Displaying the elapsed ticks after each sorting
+        private void UI_SortingTime_Tmr_Tick(object sender, EventArgs e)
+        {
+            UI_SortingTime_Tbx.Text = $"{sw.ElapsedTicks}";
+            UI_SortingTime_Tmr.Enabled = false;
         }
 
         // Performing the insertion sorting
@@ -193,16 +214,5 @@ namespace ICA8_DareenKN
             }
         }
 
-        // Clearing the Sorted Data textbox
-        private void UI_ClearSorted_Btn_Click(object sender, EventArgs e)
-        {
-            UI_DisplaySortedData_Tbx.Clear();
-        }
-
-        // Displaying the ellapsed ticks after each sorting
-        private void UI_SortingTime_Tmr_Tick(object sender, EventArgs e)
-        {
-            UI_SortingTime_Tbx.Text = $"{sw.ElapsedTicks}";
-        }
     }
 }
