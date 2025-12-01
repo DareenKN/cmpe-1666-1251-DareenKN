@@ -1,0 +1,458 @@
+
+
+body {
+  font-size: 15px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:1.5rem;
+  color: rgb(0, 0, 0);
+  background-image: url(../images/body-bg.png);
+  text-align: left;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  line-height: 1.5;
+  height: 100%;
+}
+
+nav {
+  display: flex;
+  padding: 15px;
+  background-color: #ffffff;
+}
+
+nav>ul {
+  display: flex;
+}
+
+nav>ul>li {
+  padding: 10px 15px;
+}
+
+nav>ul li>a {
+  text-decoration: none;
+  color: #f59444;
+}
+
+nav>ul li>a:hover {
+  text-decoration: underline;
+  text-decoration-color: #faceb1;
+}
+
+
+
+h1 {
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.cp-h1 {
+  color: #6c7353;
+}
+
+h2 {
+  font-size: 40px;
+  color: #6c7355;
+}
+
+h3 {
+  font-size: 26px;
+  color: #ffffff;
+}
+
+.banner {
+  background: url(../images/banner.jpg) no-repeat;
+  background-color: black;
+  height: 450px;
+}
+
+.camping-banner {
+  background: url(../images/camping-banner.png) no-repeat;
+  background-color: black;
+  height: 225px;
+}
+
+.banner .left-column {
+  color: #ffffff;
+  background: #3b4834;
+  width: 438px;
+  font-size: 22px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.banner-text {
+  padding: 20px;
+}
+
+.camping-banner-text {
+  padding: 6px;
+  background: #e2e5e1;
+  opacity: 0.9;
+  margin: 0px 25px;
+}
+
+.banner-text p {
+  padding: 15px 0 30px 0;
+}
+
+.left-column {
+  margin-top: 65px;
+  margin-bottom: 65px;
+}
+
+.hero-button {
+  height: 60px;
+  width: 385px;
+  color: #3b4834;
+  border: 2px solid #000000;
+  border-radius: 5px;
+}
+
+.hero-button:hover {
+  background: #6c7355;
+  color: #dddddd;
+}
+
+.reserve-btn {
+  padding: 5px;
+  margin: 20px 0 10px 0;
+  background: #6c7355;
+  color: #dddddd;
+  border: 0px;
+  border-radius: 3px;
+}
+
+.reserve-btn:hover {
+  background: #3b4834;
+}
+
+.flex {
+  display: flex;
+  flex-direction:column;
+}
+
+.center {
+  justify-content: center;
+}
+
+.orange_header {
+  background: #f59444;
+
+  padding: 30px 0 30px 20px;
+}
+
+section {
+  background-color: #ffffff;
+}
+
+.pad25 {
+  padding: 25px;
+}
+
+.pad20 {
+  padding: 20px;
+}
+
+.pad40 {
+  padding-top: 40px;
+}
+
+.main-content h2 {
+  padding-top: 70px;
+}
+
+section>footer {
+  background-color: #e4e4e4;
+}
+
+.row {
+  border: 1px solid #000000;
+  margin: 0px 0 36px 0;
+}
+
+.checkout-row {
+  margin: 0px 0 36px 0;
+  
+}
+
+.article-2 {
+  flex-direction: row-reverse;
+}
+
+.article-2 img {
+  padding-left: 25px;
+}
+
+.article-2 p {
+  margin: 0 25px 25px 0;
+  font-family: "Noto-Sans";
+}
+
+.article p {
+  margin: 0 25px 25px 0;
+  font-family: "Noto-Sans";
+}
+
+.article img {
+  padding-right: 25px;
+}
+
+.article-footer p {
+  font-style: italic;
+  color: #8f9481;
+  padding: 20px;
+}
+
+.article-footer img {
+  padding: 20px;
+}
+
+.article-footer p span {
+  font-weight: bold;
+  color: #6b7743;
+}
+
+.footer-menu {
+  background: #4e6940;
+  margin: 0 auto;
+}
+
+.footer-menu h1 {
+  text-align: center;
+}
+
+footer>section>div>a {
+  text-decoration: none;
+  color: #e4e4e4;
+  padding: 0 10px 0px 10px;
+}
+
+footer>section>div a:hover {
+  color: #f59b54;
+}
+
+footer>section>div {
+  padding-bottom: 20px;
+}
+
+.copyright {
+  background: #6c7355;
+  padding: 10px;
+}
+
+.copyright p {
+  text-align: center;
+}
+
+.footer-menu>div>a {
+  flex: 0.12;
+}
+
+table,
+th,
+td {
+  border: 1px solid #dddddd;
+  padding: 10px;
+  width: 600px;
+}
+
+/*Camping Page*/
+.flexwrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.camping_table {
+  list-style: inside;
+}
+
+.date {
+  color: #757575;
+}
+
+.column {
+  width: 301px;
+  border: 1px solid black;
+  padding-bottom: 15px;
+  margin-bottom: 30px;
+}
+
+.content {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.mid-margin {
+  margin: 0 25px 25px 25px;
+}
+
+.column-header {
+  margin: 15px auto;
+  width: 250px;
+  background: #f59444;
+  padding: 25px 10px;
+}
+
+.column h3 {
+  text-align: center;
+}
+
+/*Forms*/
+form {
+  padding: 20px;
+  width: 640px;
+}
+
+.form {
+  border: 1px solid #000000;
+  margin-right: 30px;
+}
+
+.checkout-header {
+  background: #f59444;
+  padding: 25px 10px;
+}
+
+.order h4 {
+  color: #6c7355;
+  font-weight: bold;
+  padding-top: 30px;
+}
+
+.checkout-column {
+  width: 306px;
+}
+
+.mr30 {
+  margin-right: 30px;
+}
+
+.order {
+  width: 260px;
+}
+
+.order p {
+  line-height: 24px;
+}
+
+input{
+  font-size:1.5rem;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 0 auto;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #04aa6d;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+button{
+  background-color: cyan;
+  margin:10px;
+  padding:10px;
+  border-radius :8px;
+  font-size:1.2rem;
+}
+.red {
+  color: #d3080c;
+}
+
+.creditcardimg {
+  background-image: url(../images/credit-card-icon.png);
+  background-repeat: no-repeat;
+}
+
+.credit-card {
+  width: 680px;
+  border: 1px solid #000000;
+}
+
+.terms {
+  width: 640px;
+}
+
+.terms label {
+  padding: 20px;
+}
+
+.mb35 {
+  margin-bottom: 35px;
+}
+
+.font-noto {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Noto-Sans";
+}
+
+.purchase {
+  background: #6c7355;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 4px;
+  width: 680px;
+  padding: 20px;
+  margin-bottom: 35px;
+  margin-top: 10px;
+}
+
+.purchase:hover {
+  background: #3b4834;
+}
+
+.remove {
+  text-decoration: underline;
+  line-height: 20px;
+  color: #c9c9c9;
+}
+
+.remove:hover {
+  color: #3b4834;
+}
+
+.hide {
+  display: none;
+}
+
+.footer-checkout {
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+}
+
+#BirdPosition{
+  height:300;
+  width:300;
+}
+
+#birdPosition img{
+  width:100%;
+ 
+}
+
+main{
+  display:flex;
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/scriptfile.js"></script>
+	<title>Checkout | RV Living</title>
+</head>
+
+<body>
+	<div class="container">
+		<header>
+			<h1 class="hide">Checkout</h1>
+			<nav>
+				<a href="index.html">
+					<img src="images/logo.png" alt="rvlifelogo">
+				</a>
+				<ul>
+					<li><a href="#">CAMPING PASSES</a></li>
+					<li><a href="index.html">CHECKOUT</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main>
+			<section class="checkout-row flex">
+				<h2 class="hide">Form</h2>
+
+				<section class="form">
+					<div class="checkout-header">
+						<h3>My Order</h3>
+					</div>
+					<!--
+					<form class="flex" action="https://thor.cnt.sast.ca/~oveeyenm/OM2000/Exam5/validation.php"
+						name="myform" method="get">
+				-->
+					<form class="flex" action="https://thor.cnt.sast.ca/~oveeyenm/public/cmpe2000/validation.php"
+						name="myform" method="get">
+
+						<!--		<form class="flex" action="./validation.php"
+						name="myform" method="get">
+				-->
+						<div class="checkout-column mr30">
+							<!--First Name-->
+							<div class="uName">
+								<label for="uName">Full Name <span class="red">(required)</span></label>
+								<input type="text" name="uname" id="uname" value="">
+							</div>
+							<br>
+							<div class="food">
+								<label for="food">Food <span class="red">(required)</span></label>
+								<br>
+								<input type="radio" name="food" value="burger"> Burger $5 <br>
+								<input type="radio" name="food" value="sandwich"> Sandwich $6 <br>
+								<input type="radio" name="food" value="pizza"> Pizza $9<br>
+
+							</div>
+							<Br>
+
+							<!--Number of food items-->
+							<div class="items-count">
+								<label for="fooditemcount">How many selected food items <span
+										class="red">(required)</span></label>
+								<input type="text" id="foodItemCount" name="fooditemcount" value="0">
+							</div>
+							<br><br>
+
+
+							<!--Total Cost-->
+							<div class="phonenumber">
+								<label for="total cost">Total Cost </label>
+								<input type="tel" name="totalCost" id="totalCost" readonly value="0">
+							</div>
+
+							<br>
+						</div>
+
+						<!--Food-->
+
+
+
+						<input type="submit" name="submit" class="purchase" value="Purchase Now">
+
+
+					</form>
+
+				</section>
+
+			</section>
+
+
+
+			<section id="birdHosting">
+				<div id="birdPosition">
+					<img id="birdPic" src="" alt="picture to come here">
+
+				</div>
+				<button id="firstBird">First Bird Picture</button>
+				<button id="changeBird">Change Bird on Timer</button>
+
+			</section>
+		</main>
+		<footer>
+			<section class="footer-menu">
+				<h2 class="pad20 footer-checkout">RVing Life</h2>
+			</section>
+			<div class="copyright">
+				<p>© Copyright 2022. All rights reserved.</p>
+				<p>For educational purposes only</p>
+			</div>
+		</footer>
+	</div>
+</body>
+
+</html>
