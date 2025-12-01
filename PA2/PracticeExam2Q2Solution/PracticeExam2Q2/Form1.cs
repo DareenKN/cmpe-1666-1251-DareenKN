@@ -117,6 +117,7 @@ namespace PracticeExam2Q2
             }
             else if (UI_SelectionSort_Radio.Checked)
             {
+
                 SelectionSort(data);
             }
             else
