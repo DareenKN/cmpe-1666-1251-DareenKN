@@ -1,0 +1,11 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\bin\Debug\Lectur10Exercise2.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\bin\Debug\Lectur10Exercise2.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\bin\Debug\Lectur10Exercise2.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\Demos\Lecture10\Lectur10Exercise2\Lectur10Exercise2\obj\Debug\Lectur10Exercise2.Form1.resources
