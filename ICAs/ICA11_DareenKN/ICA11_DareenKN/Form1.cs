@@ -1,4 +1,12 @@
-﻿using System;
+﻿/* CMPE1600 - Intermediate Programming
+ * Name: Dareen Kinga Njatou
+ *
+ * Description: CMPE 1666-ICA10 – FloodFill Algorithm
+ *              Applying recursion to performing a flood fill on a graphical object.
+ *  
+ * Date: November 7, 2025
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

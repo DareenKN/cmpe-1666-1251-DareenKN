@@ -1,0 +1,12 @@
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\bin\Debug\ICA13_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\bin\Debug\ICA13_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\bin\Debug\ICA13_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.Form1.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.ModalFontProperty.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\ICA13_DareenKN\ICA13_DareenKN\obj\Debug\ICA13_DareenKN.exe.config

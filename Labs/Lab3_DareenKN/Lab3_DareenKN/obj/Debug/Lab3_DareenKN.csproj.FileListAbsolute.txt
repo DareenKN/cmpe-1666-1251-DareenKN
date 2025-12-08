@@ -1,0 +1,33 @@
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\Lab3_DareenKN.exe.config
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\Lab3_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\Lab3_DareenKN.pdb
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.csproj.AssemblyReference.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.Properties.Resources.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.csproj.GenerateResource.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.exe
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.pdb
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModalSelectDifficulty.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\GDIDrawer.dll
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_Dar.39E3F8B1.Up2Date
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModelessScore.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModelessAnimationSpeed.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.BallzForm.resources
+C:\Users\Kidareen\OneDrive - NAIT\Desktop\NAIT'S STUFFS\GitHub\Term 2\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModalHighScore.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\Lab3_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\Lab3_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\Lab3_DareenKN.pdb
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\bin\Debug\GDIDrawer.dll
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.exe.config
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.BallzForm.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModalHighScore.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModelessAnimationSpeed.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModelessScore.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.ModalSelectDifficulty.resources
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_Dar.39E3F8B1.Up2Date
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.exe
+C:\Users\dkinganjatou1\Downloads\submissions-DareenKN\Lab3_DareenKN\Lab3_DareenKN\obj\Debug\Lab3_DareenKN.pdb

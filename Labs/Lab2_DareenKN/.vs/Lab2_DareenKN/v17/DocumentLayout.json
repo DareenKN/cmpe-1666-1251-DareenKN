@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\Lab2_DareenKN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFE9FA20-F348-4929-AB14-EE0394221BC8}|Lab2_DareenKN\\Lab2_DareenKN.csproj|C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\Lab2_DareenKN\\lab2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFE9FA20-F348-4929-AB14-EE0394221BC8}|Lab2_DareenKN\\Lab2_DareenKN.csproj|c:\\users\\dkinganjatou1\\downloads\\submissions-dareenkn\\lab2_dareenkn\\lab2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE9FA20-F348-4929-AB14-EE0394221BC8}|Lab2_DareenKN\\Lab2_DareenKN.csproj|solutionrelative:lab2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE9FA20-F348-4929-AB14-EE0394221BC8}|Lab2_DareenKN\\Lab2_DareenKN.csproj|c:\\users\\dkinganjatou1\\downloads\\submissions-dareenkn\\lab2_dareenkn\\lab2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FFE9FA20-F348-4929-AB14-EE0394221BC8}|Lab2_DareenKN\\Lab2_DareenKN.csproj|C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\Lab2_DareenKN\\lab2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FFE9FA20-F348-4929-AB14-EE0394221BC8}|Lab2_DareenKN\\Lab2_DareenKN.csproj|solutionrelative:lab2_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Lab2_DareenKN\\Form1.Designer.cs",
               "ViewState": "AgIAAAkBAAAAAAAAAAASwBwBAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T21:09:06.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T21:09:06.963Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Lab2_DareenKN\\Form1.cs",
               "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\Lab2_DareenKN\\Lab2_DareenKN\\Form1.cs",
               "RelativeToolTip": "Lab2_DareenKN\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEBAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwFEBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T20:09:48.201Z",
               "EditorCaption": ""
@@ -59,8 +58,7 @@
               "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\Lab2_DareenKN\\Lab2_DareenKN\\Form1.cs [Design]",
               "RelativeToolTip": "Lab2_DareenKN\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T20:09:44.759Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-24T20:09:44.759Z"
             }
           ]
         }

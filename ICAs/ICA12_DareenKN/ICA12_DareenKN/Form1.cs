@@ -15,12 +15,7 @@ using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ICA12_DareenKN
@@ -109,6 +104,12 @@ namespace ICA12_DareenKN
             return i + 1;   // Index position of pivot element
         }
 
+        /// <summary>
+        /// Function for swapping
+        /// </summary>
+        /// <param name="list"></param>
+        /// <param name="i"></param>
+        /// <param name="j"></param>
         private static void Swap(List<Employee> list, int i, int j)
         {
             Employee temp = list[i];
@@ -116,6 +117,11 @@ namespace ICA12_DareenKN
             list[j] = temp;
         }
 
+        /// <summary>
+        /// Displays the unsorted list in the unsorted listbox based on the radio buttons states
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void UI_DisplayUnsortedList_Btn_Click(object sender, EventArgs e)
         {
             // Resseting EmployeeList
@@ -136,6 +142,7 @@ namespace ICA12_DareenKN
                 }
             }
 
+            // Displays data from a file dropped on the blue button
             else if (UI_FileData_RadioBtn.Checked)
             {
                 // Ensure there are values in the file
@@ -145,6 +152,7 @@ namespace ICA12_DareenKN
                     return;
                 }
 
+                // Display the unsorted list in the unsorted listbox
                 foreach (Employee emp in EmployeesFromDataFile)
                     UI_UnsortedData_Lbx.Items.Add($"{emp._employeeID}:\t{emp._salary}");
             }
@@ -165,6 +173,11 @@ namespace ICA12_DareenKN
             EmployeesFrorBuiltInData.Clear();
         }
 
+        /// <summary>
+        /// Sorts the list based on the radio button state
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void UI_Sort_Btn_Click(object sender, EventArgs e)
         {
             // First Check if the list is empty based on the radio button
@@ -187,18 +200,21 @@ namespace ICA12_DareenKN
                 // Stoping the StopWatch
                 sw.Stop();
 
+                // Display the ellapsed ticks
+                UI_TimeTaken_Tbx.Text = $"{sw.ElapsedTicks} ticks";
+
                 // Clear the Sorted Data ListBox
                 UI_SortedData_Lbx.Items.Clear();
 
                 // Display the Sorted List in the listbox
                 foreach (Employee emp in EmployeesFrorBuiltInData)
                     UI_SortedData_Lbx.Items.Add($"{emp._employeeID}:\t{emp._salary}");
-                
-
-
             }
+
+            // Sorts from the list dropped on the blue label
             else if (UI_FileData_RadioBtn.Checked)
             {
+                // Verify if any data was dropped
                 if (EmployeesFromDataFile.Count() == 0)
                 {
                     MessageBox.Show("Please, Give me data first from the File !!!");
@@ -216,6 +232,9 @@ namespace ICA12_DareenKN
                 // Stoping the StopWatch
                 sw.Stop();
 
+                // Display the ellapsed ticks
+                UI_TimeTaken_Tbx.Text = $"{sw.ElapsedTicks} ticks";
+
                 // Clear the Sorted Data ListBox
                 UI_SortedData_Lbx.Items.Clear();
 
@@ -225,17 +244,32 @@ namespace ICA12_DareenKN
             }
         }
 
+        /// <summary>
+        /// Clears the sorted List box
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void UI_ClearSortedListBox_Btn_Click(object sender, EventArgs e)
         {
             // Clearing the Sorted ListBox
             UI_SortedData_Lbx.Items.Clear();
         }
 
+        /// <summary>
+        /// Displays the ticks passed during the sorting
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void UI_TimeTaken_Tmr_Tick(object sender, EventArgs e)
         {
-            UI_TimeTaken_Tbx.Text = $"{sw.ElapsedTicks} ticks";
+            //UI_TimeTaken_Tbx.Text = $"{sw.ElapsedTicks} ticks";
         }
 
+        /// <summary>
+        /// Drag enter event handler
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void UI_DragAndDrop_Lbl_DragEnter(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
@@ -244,6 +278,11 @@ namespace ICA12_DareenKN
                 e.Effect = DragDropEffects.None;
         }
 
+        /// <summary>
+        /// Drag and drop event handler
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void UI_DragAndDrop_Lbl_DragDrop(object sender, DragEventArgs e)
         {
             // Clearing existing data found in the ListBox

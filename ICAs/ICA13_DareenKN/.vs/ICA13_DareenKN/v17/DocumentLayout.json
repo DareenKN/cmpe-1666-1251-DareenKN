@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ica13_dareenkn\\modalfontproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|solutionrelative:ica13_dareenkn\\modalfontproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|c:\\users\\dkinganjatou1\\downloads\\submissions-dareenkn\\ica13_dareenkn\\ica13_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|solutionrelative:ica13_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ica13_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|solutionrelative:ica13_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ica13_dareenkn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|solutionrelative:ica13_dareenkn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ica13_dareenkn\\modalfontproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|solutionrelative:ica13_dareenkn\\modalfontproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ica13_dareenkn\\modalfontproperty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E956BCEC-5618-439A-A09E-331328123DA1}|ICA13_DareenKN\\ICA13_DareenKN.csproj|solutionrelative:ica13_dareenkn\\modalfontproperty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModalFontProperty.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\ModalFontProperty.Designer.cs",
+              "RelativeDocumentMoniker": "ICA13_DareenKN\\ModalFontProperty.Designer.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\ModalFontProperty.Designer.cs",
+              "RelativeToolTip": "ICA13_DareenKN\\ModalFontProperty.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwH0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:19:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModalFontProperty.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\ModalFontProperty.cs",
+              "RelativeDocumentMoniker": "ICA13_DareenKN\\ModalFontProperty.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\ModalFontProperty.cs",
+              "RelativeToolTip": "ICA13_DareenKN\\ModalFontProperty.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:27:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA13_DareenKN\\Form1.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\Form1.cs",
+              "RelativeToolTip": "ICA13_DareenKN\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:19:13.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModalFontProperty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\ModalFontProperty.cs",
+              "RelativeDocumentMoniker": "ICA13_DareenKN\\ModalFontProperty.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\ModalFontProperty.cs [Design]",
+              "RelativeToolTip": "ICA13_DareenKN\\ModalFontProperty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:20:55.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ICA13_DareenKN\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\Form1.Designer.cs",
+              "RelativeToolTip": "ICA13_DareenKN\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:31:13.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA13_DareenKN\\Form1.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\submissions-DareenKN\\ICA13_DareenKN\\ICA13_DareenKN\\Form1.cs [Design]",
+              "RelativeToolTip": "ICA13_DareenKN\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:10:37.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

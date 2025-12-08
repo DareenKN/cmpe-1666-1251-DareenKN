@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA16_DareenKN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC04A89-64C5-45E9-80EF-564551D4328C}|ICA16_DareenKN\\ICA16_DareenKN.csproj|c:\\users\\kidareen\\onedrive - nait\\desktop\\nait\u0027s stuffs\\github\\term 2\\submissions-dareenkn\\ica16_dareenkn\\ica16_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC04A89-64C5-45E9-80EF-564551D4328C}|ICA16_DareenKN\\ICA16_DareenKN.csproj|solutionrelative:ica16_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC04A89-64C5-45E9-80EF-564551D4328C}|ICA16_DareenKN\\ICA16_DareenKN.csproj|C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA16_DareenKN\\ica16_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AC04A89-64C5-45E9-80EF-564551D4328C}|ICA16_DareenKN\\ICA16_DareenKN.csproj|solutionrelative:ica16_dareenkn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{896e815d-3862-4978-a1bc-cb6a3e70045c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA16_DareenKN\\ICA16_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA16_DareenKN\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA16_DareenKN\\ICA16_DareenKN\\Form1.cs",
+              "RelativeToolTip": "ICA16_DareenKN\\Form1.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwJEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:41:47.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA16_DareenKN\\ICA16_DareenKN\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA16_DareenKN\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kidareen\\OneDrive - NAIT\\Desktop\\NAIT\u0027S STUFFS\\GitHub\\Term 2\\submissions-DareenKN\\ICA16_DareenKN\\ICA16_DareenKN\\Form1.cs [Design]",
+              "RelativeToolTip": "ICA16_DareenKN\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:18:49.492Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
