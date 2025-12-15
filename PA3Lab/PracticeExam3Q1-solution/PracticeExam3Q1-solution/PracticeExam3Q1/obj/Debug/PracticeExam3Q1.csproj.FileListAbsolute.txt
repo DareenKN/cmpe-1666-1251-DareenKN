@@ -1,0 +1,12 @@
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\bin\Debug\LE3Q1.exe.config
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\bin\Debug\LE3Q1.exe
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\bin\Debug\LE3Q1.pdb
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\bin\Debug\GDIDrawer.dll
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\PracticeExam3Q1.csproj.AssemblyReference.cache
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\PracticeExam3Q1.Form1.resources
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\LE3Q1.Properties.Resources.resources
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\PracticeExam3Q1.csproj.GenerateResource.cache
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\PracticeExam3Q1.csproj.CoreCompileInputs.cache
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\PracticeExam3Q1.csproj.CopyComplete
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\LE3Q1.exe
+C:\Users\OVEEYENM\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunFall2024\PracticeExams\Practice Exam3\PracticeExam3Q1-solution\PracticeExam3Q1\obj\Debug\LE3Q1.pdb
