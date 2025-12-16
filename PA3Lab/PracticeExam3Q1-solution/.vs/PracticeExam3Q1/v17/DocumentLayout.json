@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\PA3Lab\\PracticeExam3Q1-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D389B5-9A6B-4332-8914-711528B424A7}|PracticeExam3Q1\\PracticeExam3Q1.csproj|c:\\users\\dkinganjatou1\\downloads\\cmpe-1666-1251-dareenkn\\pa3lab\\practiceexam3q1-solution\\practiceexam3q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D389B5-9A6B-4332-8914-711528B424A7}|PracticeExam3Q1\\PracticeExam3Q1.csproj|solutionrelative:practiceexam3q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D389B5-9A6B-4332-8914-711528B424A7}|PracticeExam3Q1\\PracticeExam3Q1.csproj|C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\PA3Lab\\PracticeExam3Q1-solution\\practiceexam3q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36D389B5-9A6B-4332-8914-711528B424A7}|PracticeExam3Q1\\PracticeExam3Q1.csproj|solutionrelative:practiceexam3q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\PA3Lab\\PracticeExam3Q1-solution\\PracticeExam3Q1\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticeExam3Q1\\Form1.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\PA3Lab\\PracticeExam3Q1-solution\\PracticeExam3Q1\\Form1.cs [Design]",
+              "RelativeToolTip": "PracticeExam3Q1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:49:33.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\PA3Lab\\PracticeExam3Q1-solution\\PracticeExam3Q1\\Form1.cs",
+              "RelativeDocumentMoniker": "PracticeExam3Q1\\Form1.cs",
+              "ToolTip": "C:\\Users\\dkinganjatou1\\Downloads\\cmpe-1666-1251-DareenKN\\PA3Lab\\PracticeExam3Q1-solution\\PracticeExam3Q1\\Form1.cs",
+              "RelativeToolTip": "PracticeExam3Q1\\Form1.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAWwGwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:49:34.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

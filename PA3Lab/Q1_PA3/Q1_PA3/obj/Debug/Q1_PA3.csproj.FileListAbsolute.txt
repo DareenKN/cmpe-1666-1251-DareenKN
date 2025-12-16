@@ -1,0 +1,13 @@
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\bin\Debug\Q1_PA3.exe.config
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\bin\Debug\Q1_PA3.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\bin\Debug\Q1_PA3.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\bin\Debug\GDIDrawer.dll
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.csproj.AssemblyReference.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.Form1.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.Properties.Resources.resources
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.csproj.GenerateResource.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.csproj.CoreCompileInputs.cache
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.csproj.Up2Date
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.exe
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.pdb
+C:\Users\dkinganjatou1\Downloads\cmpe-1666-1251-DareenKN\PA3Lab\Q1_PA3\Q1_PA3\obj\Debug\Q1_PA3.exe.config
